@@ -1,0 +1,8 @@
+{
+  "id": 126,
+  "filename": "P126_RadialGradient.swift",
+  "disposition": "example",
+  "upstream_sha256": "3b5883e9bbb548b46b592a02fe3a2082ee208a62da1a8acb9c8879830461b407",
+  "adapted_sha256": "e9cfb85abb521a26907fe747646090890c6dca14d3b91d2de245343b385ece3d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

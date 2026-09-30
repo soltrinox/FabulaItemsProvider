@@ -1,0 +1,8 @@
+{
+  "id": 276,
+  "filename": "P276_ImageSlider.swift",
+  "disposition": "example",
+  "upstream_sha256": "a9762f283a35a6886f8b716e85f34942fe6a92599bf5ce0124f4a7a6766c48c2",
+  "adapted_sha256": "5dfb61a42f0dbb0695ccdfc0f494d3c9969389be6033899adab4ced601fc8fba",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

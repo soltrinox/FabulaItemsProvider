@@ -1,0 +1,8 @@
+{
+  "id": 17,
+  "filename": "P17_Pyramid.swift",
+  "disposition": "example",
+  "upstream_sha256": "f0b37f56a05b919b1a88b8207729dfcd2a75bb2e8dde00ca9fab9b183f8daa27",
+  "adapted_sha256": "3cb1e80a0b2e7de4abf41f2bc0fa4cc99762f2f0458430a050555aaf09f09981",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

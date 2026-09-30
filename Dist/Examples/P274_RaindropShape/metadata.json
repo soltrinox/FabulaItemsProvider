@@ -1,0 +1,8 @@
+{
+  "id": 274,
+  "filename": "P274_RaindropShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "c3d215ef0897e9cba46f33a3286d82f76842cc0be051ba0318c953b2c30b7ade",
+  "adapted_sha256": "e7f90eddbe393b88940bd11756da994f738b5204665958d82a2d8fb7031ffdd5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

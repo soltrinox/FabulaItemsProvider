@@ -1,0 +1,8 @@
+{
+  "id": 104,
+  "filename": "P104_Refresh.swift",
+  "disposition": "example",
+  "upstream_sha256": "4c299d88929b27e5c60f3ee38e76fd36ac1fe39d5f3b76499684f0bca2520803",
+  "adapted_sha256": "4e3e91353efe8533f93e333994cd5648c8cbf0be3fe821cd939d7b042af57a77",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

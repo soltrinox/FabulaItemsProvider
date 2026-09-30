@@ -1,0 +1,8 @@
+{
+  "id": 70,
+  "filename": "P70_IsEnabled.swift",
+  "disposition": "example",
+  "upstream_sha256": "4cd201232606675d1760887327aed92bd48cad347a2a8b1803ec9d8652507a78",
+  "adapted_sha256": "0bb87e5d40a48073bc7f131da6d1c63d161f6d791613857e87ee327c4a0bad46",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

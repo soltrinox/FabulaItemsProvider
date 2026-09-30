@@ -1,0 +1,8 @@
+{
+  "id": 106,
+  "filename": "P106_BackgroundMaterial.swift",
+  "disposition": "example",
+  "upstream_sha256": "3d909bd5f86c64c09d9ab94d94b999bca222a960024180a9144196e695d37d82",
+  "adapted_sha256": "c349167259d2113d13e0bd43755d38ab2db3684689330c1e8a19dddb26e831c8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

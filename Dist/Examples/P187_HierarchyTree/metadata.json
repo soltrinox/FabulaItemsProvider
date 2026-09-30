@@ -1,0 +1,8 @@
+{
+  "id": 187,
+  "filename": "P187_HierarchyTree.swift",
+  "disposition": "example",
+  "upstream_sha256": "2ae660ea72c1f5dd7218e948cef7cee10ad92d897db395e64767660c3be07369",
+  "adapted_sha256": "05b1fdb138c5250f686d89e42888ec51683b101b427060b939b541e842a130e2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

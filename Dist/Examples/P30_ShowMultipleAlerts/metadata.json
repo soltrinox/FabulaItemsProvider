@@ -1,0 +1,8 @@
+{
+  "id": 30,
+  "filename": "P30_MultipleAlert.swift",
+  "disposition": "example",
+  "upstream_sha256": "9d217992815afb22d2e111b7682ed63022f7984b63b177bf66823dd40144b49c",
+  "adapted_sha256": "fbe9e5c11e5afaee07dd89e501c9dd8aa3823c9023534dcb718d2f5af1eb99fa",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

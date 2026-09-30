@@ -1,0 +1,8 @@
+{
+  "id": 191,
+  "filename": "P191_FractalPattern.swift",
+  "disposition": "example",
+  "upstream_sha256": "4f354d565316f654e78a318386fa19ea7b5767551d38184c71a373df88804365",
+  "adapted_sha256": "5aeda6bb88f42a3babf019f7ee95f41dbfcda4f0373653aa4831c2f1a5646ad6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

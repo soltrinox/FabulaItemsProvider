@@ -1,0 +1,8 @@
+{
+  "id": 196,
+  "filename": "P196_TextPreferenceKey.swift",
+  "disposition": "example",
+  "upstream_sha256": "8751d127241727c47e2169b632ae6b8a89eda1a6ee001253e1f6482f37481e1f",
+  "adapted_sha256": "40049bed94d33cebc75b97241c9cb8c0b18bc7488aee1aa562d08192564079c5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

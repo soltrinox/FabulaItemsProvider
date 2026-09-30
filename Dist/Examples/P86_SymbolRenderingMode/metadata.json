@@ -1,0 +1,8 @@
+{
+  "id": 86,
+  "filename": "P86_SymbolRenderingMode.swift",
+  "disposition": "example",
+  "upstream_sha256": "29d046742f2f54871f6fd0eb5d0378543b50e20b8698060cd620f0f78128d9d2",
+  "adapted_sha256": "0c9002a15ba8c09c2c83f01f272e1356d49f578aa9a3dec574457b15eb351467",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

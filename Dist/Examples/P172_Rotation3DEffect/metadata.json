@@ -1,0 +1,8 @@
+{
+  "id": 172,
+  "filename": "P172_Rotation3DEffect.swift",
+  "disposition": "example",
+  "upstream_sha256": "470dd4defc65fc8e159bbc5c2c29e0046a36ada474af62a81d39c5804dd31246",
+  "adapted_sha256": "6a48059aa6b5805efac47b26fd593f9bbe8c917d8beb90ea4e74ffc1070c925a",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

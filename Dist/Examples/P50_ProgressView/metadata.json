@@ -1,0 +1,8 @@
+{
+  "id": 50,
+  "filename": "P50_ProgressView.swift",
+  "disposition": "component",
+  "upstream_sha256": "ae60f11bb4e88da57561cdc4f71d4e10a33b03c59141068265de878c9fadd010",
+  "adapted_sha256": "cc7f00a1d63a2193d331a8fa8bc3e1f70cf99bdad3a054a1253d2daea75817ed",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

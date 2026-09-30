@@ -128,6 +128,7 @@ struct RowView: View {
             rowContent
                 .overlay(
                     LinearGradient(colors: [Color.black.opacity(0.8), Color.black.opacity(0.6)], startPoint: .topLeading, endPoint: .bottomTrailing)
+                        .compositingGroup()
                         .opacity(isUnfold ? 0 : 1)
                 )
                 .rotation3DEffect(Angle(degrees: -90 * (isUnfold ? 0 : 1)), axis: (x: 1, y: 0, z: 0), anchor: .top)
@@ -137,6 +138,7 @@ struct RowView: View {
             rowContent
                 .overlay(
                     LinearGradient(colors: [Color.black.opacity(0.4), Color.black.opacity(0.3)], startPoint: .bottomTrailing, endPoint: .topLeading)
+                        .compositingGroup()
                         .opacity(isUnfold ? 0 : 1)
                 )
                 .rotation3DEffect(Angle(degrees: 90 * (isUnfold ? 0 : 1)), axis: (x: 1, y: 0, z: 0), anchor: .bottom)

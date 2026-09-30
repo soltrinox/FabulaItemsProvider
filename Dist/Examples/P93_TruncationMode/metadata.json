@@ -1,0 +1,8 @@
+{
+  "id": 93,
+  "filename": "P93_TruncationMode.swift",
+  "disposition": "example",
+  "upstream_sha256": "ae293fa2ee940b9f7c9f0d8cb16529ea7a602af69e10eb1c131bf3b0db0a27e3",
+  "adapted_sha256": "8f387805254ee2ea9cefae93a5ac333a63365a22b1e0bfdf8be69b56318289c1",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

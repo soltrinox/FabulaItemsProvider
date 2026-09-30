@@ -1,0 +1,8 @@
+{
+  "id": 12,
+  "filename": "P12_Timeface.swift",
+  "disposition": "example",
+  "upstream_sha256": "6013d654ef7cc7549bd322a555ebeaa152ccfc8203db1d29b848c61ddc2da4fc",
+  "adapted_sha256": "1b024c6e4b9aae8b435300f6643e74470893ba883c0df5abbc16ad4026c35152",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

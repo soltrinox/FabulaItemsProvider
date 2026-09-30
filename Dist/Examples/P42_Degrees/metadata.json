@@ -1,0 +1,8 @@
+{
+  "id": 42,
+  "filename": "P42_Angle.swift",
+  "disposition": "example",
+  "upstream_sha256": "63093ca9fd3e572b4121e967486fb914c6e63d1fc2af4ee17454115229382f1f",
+  "adapted_sha256": "edc095287dec1dca280f1878d2dd03810ebb018bff9b3368a9ed47c36de9358c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

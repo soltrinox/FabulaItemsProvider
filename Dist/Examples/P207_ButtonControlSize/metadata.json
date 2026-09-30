@@ -1,0 +1,8 @@
+{
+  "id": 207,
+  "filename": "P207_ButtonControlSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "bc6eda557cd9f0802c3f19a44d01f9cbcfa54011da3191d70a002a37047dc3dd",
+  "adapted_sha256": "6e668f7395a2cc5c32cd38abb42e9e0288ee4feaa769099ccf199f0f9ef7ffeb",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

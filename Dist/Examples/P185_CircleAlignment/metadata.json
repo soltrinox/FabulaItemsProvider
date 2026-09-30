@@ -1,0 +1,8 @@
+{
+  "id": 185,
+  "filename": "P185_CircleAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "e38929f93b8c212e6ebf373ebec4ba15ecf3763cd0a84264d8d4c87692326b09",
+  "adapted_sha256": "0e0798fe2f8f94e6445c761369d44c355355aa29f8769efd042ee62183c68359",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

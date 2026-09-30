@@ -1,0 +1,8 @@
+{
+  "id": 55,
+  "filename": "P55_Picker.swift",
+  "disposition": "component",
+  "upstream_sha256": "ef29142fa7fc390fdcdc066f9ab1761d641e1af7478ec61837d147e7c0ae2821",
+  "adapted_sha256": "6e8f048d7b8cb855699bc078791fa31f435fb7b6470e9d0522e74ecad86fd107",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

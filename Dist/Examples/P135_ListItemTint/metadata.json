@@ -1,0 +1,8 @@
+{
+  "id": 135,
+  "filename": "P135_ListItemTint.swift",
+  "disposition": "example",
+  "upstream_sha256": "7524ae53bb9cd1d5f32f02f077e0227d0e3d61b84359b90c30119b7329091fa8",
+  "adapted_sha256": "bb778270b7cf2218e1dd5e6957f474ca8634e3dfe7f53dfd762704b7b54ba6ef",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

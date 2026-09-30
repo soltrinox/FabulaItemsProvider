@@ -1,0 +1,8 @@
+{
+  "id": 200,
+  "filename": "P200_DynamicTypeSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "bcf7b7e3839840b0286574fea1749df0aa78e175837dc354cfb534f58c5f6a54",
+  "adapted_sha256": "adbcce8d06e83ba1382de35c54d4f152592f48c37641542080f48b07be3b882d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

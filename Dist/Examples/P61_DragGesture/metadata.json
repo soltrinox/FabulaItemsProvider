@@ -1,0 +1,8 @@
+{
+  "id": 61,
+  "filename": "P61_DragGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "f949378613c0c6fc3b3fb6c00bf20a3203edf6fe1945216680d4ac40aca6439a",
+  "adapted_sha256": "643cfedd625d3a3a6485f6fe32b5494505395cf7f2284c6049477f21f8bb8bf5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

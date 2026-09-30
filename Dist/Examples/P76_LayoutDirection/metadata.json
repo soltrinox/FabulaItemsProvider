@@ -1,0 +1,8 @@
+{
+  "id": 76,
+  "filename": "P76_LayoutDirection.swift",
+  "disposition": "example",
+  "upstream_sha256": "89526935d8f6bd47406c269f6eeb28f371efe15c4e6b8f2bdbbd9e1f3b09bdc8",
+  "adapted_sha256": "cd1a406e4b0f86f16e5d3f976b303aa3366308371951359067d06bb3e46a2277",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

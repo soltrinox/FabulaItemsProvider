@@ -1,0 +1,8 @@
+{
+  "id": 90,
+  "filename": "P90_Font.swift",
+  "disposition": "example",
+  "upstream_sha256": "02b298b47a605f2b7864a71ced9abba1365e1190888cc5e4cdf6057fc8f3baec",
+  "adapted_sha256": "a48c8e41a0e7f85c1b3cb18722d527c1e410e3e85e86a78663db04d964a1971c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

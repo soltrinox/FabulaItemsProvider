@@ -1,0 +1,8 @@
+{
+  "id": 100,
+  "filename": "P100_Dismiss.swift",
+  "disposition": "example",
+  "upstream_sha256": "3babacb1dd7fbbe376d0e03cc5b0800f1721040a489c1e19c5fce621ce6eda6f",
+  "adapted_sha256": "9919c5057ca72346813463f202427a72d176bf88b4d4eaec6d23bd6fe6e006b7",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

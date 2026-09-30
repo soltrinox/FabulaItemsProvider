@@ -1,0 +1,8 @@
+{
+  "id": 165,
+  "filename": "P165_AnimatablePair.swift",
+  "disposition": "example",
+  "upstream_sha256": "fdbc4b6e079b0c9602628cd7866860c6aceaad58b908c44fa401b62ef931d241",
+  "adapted_sha256": "77b439bb0d7594e9b2cf19f7ea2fc47d95b5d9727d7841b6fab5ce7872ac3d03",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

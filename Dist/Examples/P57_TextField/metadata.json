@@ -1,0 +1,8 @@
+{
+  "id": 57,
+  "filename": "P57_TextField.swift",
+  "disposition": "example",
+  "upstream_sha256": "081aed1cc138fd5db74407c27f5c58f08ca9a9e4571501f117b04f6ed702b6fb",
+  "adapted_sha256": "bf8f787f85d890bff9bff945c829eb367e6c3ffd63d7362f63487174ea409ecf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

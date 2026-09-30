@@ -1,0 +1,8 @@
+{
+  "id": 264,
+  "filename": "P264_DynamicFontSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "b212ea65e02c858b1194993d421648bbb307e14e83ef3aee195187db7c710b32",
+  "adapted_sha256": "2e887df92ea40330fa6604a13f184f3b4d7a5a6c976064ec6d21c253904113a2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -101,6 +101,7 @@ struct PaperView: View {
             RowView(maxHeight: maxHeight)
                 .overlay(
                     LinearGradient(colors: [Color.black.opacity(0.8), Color.black.opacity(0.6)], startPoint: .topLeading, endPoint: .bottomTrailing)
+                        .compositingGroup()
                         .opacity((1.0 - (height / maxHeight)))
                 )
                 .rotation3DEffect(Angle(degrees: -90 * (1.0 - (height / maxHeight))), axis: (x: 1, y: 0, z: 0), anchor: .top)
@@ -110,6 +111,7 @@ struct PaperView: View {
             RowView(maxHeight: maxHeight)
                 .overlay(
                     LinearGradient(colors: [Color.black.opacity(0.4), Color.black.opacity(0.3)], startPoint: .bottomTrailing, endPoint: .topLeading)
+                        .compositingGroup()
                         .opacity((1.0 - (height / maxHeight)))
                 )
                 .rotation3DEffect(Angle(degrees: 90 * (1.0 - (height / maxHeight))), axis: (x: 1, y: 0, z: 0), anchor: .bottom)

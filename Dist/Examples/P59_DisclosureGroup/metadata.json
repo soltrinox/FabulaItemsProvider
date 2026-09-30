@@ -1,0 +1,8 @@
+{
+  "id": 59,
+  "filename": "P59_DisclosureGroup.swift",
+  "disposition": "component",
+  "upstream_sha256": "08b41b33a8ca39c9ab25d8a8fc7f800d1f301f3601ad852de518073aa6e5ae9e",
+  "adapted_sha256": "74ea24a48d734d0d31bfd93af2bddf54fda30207d70facb143bae864dd5effa4",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

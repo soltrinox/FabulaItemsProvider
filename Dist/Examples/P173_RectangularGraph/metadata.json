@@ -1,0 +1,8 @@
+{
+  "id": 173,
+  "filename": "P173_RectangularGraph.swift",
+  "disposition": "example",
+  "upstream_sha256": "e95b49442999a96857e6ca63368b8d8d3ce76c14b9d897369fd4a1ae53e5ac97",
+  "adapted_sha256": "c7a70efef5741a35a03b145ba67752a215fcfb37fe484a828bafd15a779f7d31",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

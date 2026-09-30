@@ -1,0 +1,8 @@
+{
+  "id": 179,
+  "filename": "P179_FoldUnfold.swift",
+  "disposition": "example",
+  "upstream_sha256": "3314ce05470b06374390ba4316cc4dcbab8318a4978b5da1ebf1b4934e6b2cea",
+  "adapted_sha256": "ffe43a09de93846db74048fdf50f075951b9b8f3eac55eb9c19e082586035a29",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

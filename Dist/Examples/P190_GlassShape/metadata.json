@@ -1,0 +1,8 @@
+{
+  "id": 190,
+  "filename": "P190_GlassShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "de9a0cbef406927b83d921ab13088e45f2deb95b8864bcfabb9ebb2170cde13f",
+  "adapted_sha256": "98399eff6d2491e3f4041ecd4762121ca6fe22f047b0be23b9fad27de16e66ac",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

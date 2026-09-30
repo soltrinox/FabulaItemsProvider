@@ -1,0 +1,8 @@
+{
+  "id": 216,
+  "filename": "P216_CombineBasic.swift",
+  "disposition": "example",
+  "upstream_sha256": "e088f26d8ea9aed50131f9df81f899e4cf19221b922d5ba3d602c57694bc264d",
+  "adapted_sha256": "c432f9174945a683d9827a4484dc1c6e7fdd35b8cca5d46e4611dcde69ad7b77",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

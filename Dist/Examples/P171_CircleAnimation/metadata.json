@@ -1,0 +1,8 @@
+{
+  "id": 171,
+  "filename": "P171_CircleAnimation.swift",
+  "disposition": "example",
+  "upstream_sha256": "264123ab0572921505dfafb2f8496090b437c1bea6f9772c202d622058706bb8",
+  "adapted_sha256": "d29b3d6bb539b366f588bdc8184d7818ddeed4405802387e5307e6c3caee1101",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

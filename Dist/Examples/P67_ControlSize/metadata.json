@@ -1,0 +1,8 @@
+{
+  "id": 67,
+  "filename": "P67_ControlSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "d34fc8b56f162956ea887fe68550cedbe0e3dc26db2665c89ee5edd1b849bc5e",
+  "adapted_sha256": "f68004e109e1c654d4433f24861976a254015b115ab874a42934d32656d9f8ba",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 46,
+  "filename": "P46_Menu.swift",
+  "disposition": "example",
+  "upstream_sha256": "641d41884d059dca3629df6ff752d26a088c6d172e5b3e6b786e74d71c7c99fb",
+  "adapted_sha256": "b1b83fd8bb7a17af448f7a74a8bde5c612023c035264d6029488170fbc05f4ae",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 238,
+  "filename": "P238_LimitTextEditor.swift",
+  "disposition": "example",
+  "upstream_sha256": "f7734bf98b2a54796d49e7dfc3cda0e0948c7d688287221a2d09f5c6635ce60b",
+  "adapted_sha256": "e0602721b183668e7e9784dcc1e469e55f06477dbb38be33d4a68f0c3e253280",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

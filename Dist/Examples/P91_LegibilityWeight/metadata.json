@@ -1,0 +1,8 @@
+{
+  "id": 91,
+  "filename": "P91_LegibilityWeight.swift",
+  "disposition": "example",
+  "upstream_sha256": "5086ca70f061d973a240c69fbe0c1a095de0cff4239440bbdcc79b7ff464e017",
+  "adapted_sha256": "7ee954fe90e984bd0463f682cc680832022e8314355af59b22068c616ed513dd",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

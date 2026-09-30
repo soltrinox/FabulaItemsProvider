@@ -1,0 +1,8 @@
+{
+  "id": 11,
+  "filename": "P11_AngularGradient.swift",
+  "disposition": "example",
+  "upstream_sha256": "3c457e5e2b9f6c3802388e27e969fdc49d83da3fcc586a68faefaf7f6f73a292",
+  "adapted_sha256": "e0b3901abc9ca5bdd2f1f48825715ca7ecc5a7753b7ca1c747e2f31796726fcc",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

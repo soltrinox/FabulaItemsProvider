@@ -1,0 +1,8 @@
+{
+  "id": 212,
+  "filename": "P212_SizeModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "7f830ac97636262e6daf63efb8fc8cc06d6981c2158bd83e8fedcfcde9a2327c",
+  "adapted_sha256": "dbe73712701e485f162d66d294f76bd0292c8153fcf38d476aacd75cf6a1ea4e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

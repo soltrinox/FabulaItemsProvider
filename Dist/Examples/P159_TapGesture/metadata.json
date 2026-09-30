@@ -1,0 +1,8 @@
+{
+  "id": 159,
+  "filename": "P159_TapGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "21cf41a29d963937c60d03996ced6a3a06ba4b02448669e177aa464120e6eeab",
+  "adapted_sha256": "fb5e87aa0dafd2ea60fa54b9311af9b2729ed3179eedcff9aa8ebe0971dbe456",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

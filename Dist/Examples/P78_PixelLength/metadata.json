@@ -1,0 +1,8 @@
+{
+  "id": 78,
+  "filename": "P78_PixelLength.swift",
+  "disposition": "example",
+  "upstream_sha256": "246c4b9acc8654881dbc9c9f393ba84bcb14d6edd71deaf45250c186ae59d0f0",
+  "adapted_sha256": "6dedd245fd5587a146004c8186dade8dcb0d476137fcf094bc1016891fdcf1d9",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

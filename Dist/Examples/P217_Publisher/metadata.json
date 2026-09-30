@@ -1,0 +1,8 @@
+{
+  "id": 217,
+  "filename": "P217_Publisher.swift",
+  "disposition": "example",
+  "upstream_sha256": "74b977a31bde94decdb3231a4b1f6870c4f52be27eae89df99d18427ea834faa",
+  "adapted_sha256": "17bc83adf5106ee052a27bdf8b6891111ed152520c2b4d9d9baf3b8c4c4eb40d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 101,
+  "filename": "P101_IsPresented.swift",
+  "disposition": "example",
+  "upstream_sha256": "be7d879031c25d294348ea5e320562e805efa691448bd6f31d118a6ba6c66f74",
+  "adapted_sha256": "822ee4b309823f3ae2843da7031be9e58c1a1e161635e79715c0debf8d99f4ae",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

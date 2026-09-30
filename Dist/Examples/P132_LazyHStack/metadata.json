@@ -1,0 +1,8 @@
+{
+  "id": 132,
+  "filename": "P132_LazyHStack.swift",
+  "disposition": "example",
+  "upstream_sha256": "ec0c0728847869286db451c96f75e9d61e02ebe89e11a2cb613d84adc62db0bb",
+  "adapted_sha256": "259cfca393af1ba712cd453c32d166e7708d13fea0f9722cf143756308c34c08",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

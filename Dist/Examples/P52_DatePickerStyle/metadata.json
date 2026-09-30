@@ -1,0 +1,8 @@
+{
+  "id": 52,
+  "filename": "P52_DatePicker.swift",
+  "disposition": "example",
+  "upstream_sha256": "51d3f4be9149eed441cb9000002a060b0f5c1590e88f1f719efca4679c978ec7",
+  "adapted_sha256": "f715c52001684499c8e08f33d192c9a209395b5b4d3050f645877e06aea5f96c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 96,
+  "filename": "P96_LineLimit.swift",
+  "disposition": "example",
+  "upstream_sha256": "04469af844f0856b4c97f7a25e0574f6f0af0829654adf3395ea860671632de2",
+  "adapted_sha256": "32b1d25ea8f4dfe74dfbccc618f97eb390f940d37116b0887c376fe29fb31ae7",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

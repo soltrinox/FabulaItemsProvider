@@ -1,0 +1,8 @@
+{
+  "id": 37,
+  "filename": "P37_ShakeModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "86530beaa5958422ca3d7e6d332d8bdee8552dd07b4298dcacaec4d09024df22",
+  "adapted_sha256": "7340c8e65115700855a8b07b854dacf034ae52e38421b9a6994713cbd2205579",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

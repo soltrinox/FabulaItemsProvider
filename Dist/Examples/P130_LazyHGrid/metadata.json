@@ -1,0 +1,8 @@
+{
+  "id": 130,
+  "filename": "P130_LazyHGrid.swift",
+  "disposition": "example",
+  "upstream_sha256": "26e0fd9cd721d0e5f8c1cce16b653bf732852ffddf47774640683c8611d655cc",
+  "adapted_sha256": "02816e3bb71119f0a722f8bd8f0ca7e05e9bd5fc0a2fac23bde881838d34c5e6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

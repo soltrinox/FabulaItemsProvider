@@ -1,0 +1,8 @@
+{
+  "id": 180,
+  "filename": "P180_FoldPaper.swift",
+  "disposition": "example",
+  "upstream_sha256": "adc37311b4cf538f6a9cdf8d5fa28e81b213bc5a47696254423315c6a1e4a32c",
+  "adapted_sha256": "99cbf07684df0b2e8d9138e7d2bd1c62d1b305473f3cd8865df81c0e7be1a706",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

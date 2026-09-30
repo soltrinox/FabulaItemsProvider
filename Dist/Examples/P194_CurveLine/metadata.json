@@ -1,0 +1,8 @@
+{
+  "id": 194,
+  "filename": "P194_LinkCurveLine.swift",
+  "disposition": "example",
+  "upstream_sha256": "0c6d96d3e99c0bf4ac454803f40618f78065ddcc19c5f40c809bc606a8e3c404",
+  "adapted_sha256": "a51922dea6b6bdc9e0f222686770456c3823c1836ad419e2e8e26cca71f9e0f6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

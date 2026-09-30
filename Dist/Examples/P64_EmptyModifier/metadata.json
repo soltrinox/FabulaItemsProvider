@@ -1,0 +1,8 @@
+{
+  "id": 64,
+  "filename": "P64_EmptyModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "ec2004448c6905b3e87b333439d74f0545b75d02585b65bf35c8866156aa0d7c",
+  "adapted_sha256": "809b311e2441394e4a10f20467a03a1e7c98a928996515556cbfbafbca6fd2f3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

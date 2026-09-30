@@ -1,0 +1,8 @@
+{
+  "id": 56,
+  "filename": "P56_TabView.swift",
+  "disposition": "example",
+  "upstream_sha256": "69a380977e5189e3e944da585ba734edd20cac7384a10fb943faa214bcf72b51",
+  "adapted_sha256": "5893659ea71113e2ec3c1caa6ce7dd43bed9d3675a8c299ebf2691c3e66e1ef8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

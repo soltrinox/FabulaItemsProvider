@@ -1,0 +1,8 @@
+{
+  "id": 121,
+  "filename": "P121_Form.swift",
+  "disposition": "component",
+  "upstream_sha256": "ddde67c6e695da6b31da0ce7ca775cf000be19d75e2e7de7bea5be864304dc7d",
+  "adapted_sha256": "c301cb43f2cc99eef5f901d09c7f121e0d9d1e5ae8332463a6d277aefe9949d3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

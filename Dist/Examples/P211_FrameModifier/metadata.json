@@ -1,0 +1,8 @@
+{
+  "id": 211,
+  "filename": "P211_FrameModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "f2235849dd96c9136872bc4a16b2dcadfdb48abbf436e21a8e4f48a3a5065a7a",
+  "adapted_sha256": "3aa97e18d0ca848aabe8de9966569f82e8e5a9a68ef297377975317f8303c599",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

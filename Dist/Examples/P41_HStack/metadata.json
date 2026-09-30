@@ -1,0 +1,8 @@
+{
+  "id": 41,
+  "filename": "P41_HStackAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "0914422a2b1ac9fe80474ea62041f4bb57f2e708324955d22fc35e7e4b74a9bf",
+  "adapted_sha256": "f5211ea0fbef9b8fee7bd7565619282ac756d7c28223f2e31e05df9b8bc623c0",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

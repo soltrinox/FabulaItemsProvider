@@ -1,0 +1,8 @@
+{
+  "id": 116,
+  "filename": "P116_ToggleStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "8ef146646c31cb1d876f9f8dcb4ae20f04aaad3aa4bf3f142e9432079a700b66",
+  "adapted_sha256": "b0855a6275cab4f7faed82d94136ef028a4b257c7f8101bca37b37d83e6648de",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 240,
+  "filename": "P240_DisableAnimations.swift",
+  "disposition": "example",
+  "upstream_sha256": "e3eb1d4215d741d0fffcaa199ed543915db131fc44113d5b88eaa575f8e2dbcd",
+  "adapted_sha256": "c77332222f45eff3d4036a23641cb1b5a30b8123a7c75a64c130c292ab1ce33c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

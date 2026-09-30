@@ -1,0 +1,8 @@
+{
+  "id": 140,
+  "filename": "P140_OffsetShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "674cb77af79fa3b7339c8389cde281b9b90bfa3e7232690c7a50f0a798a6b9fc",
+  "adapted_sha256": "b56eadce235feccd1ac00fb71685adf590ee7a293618f341cbe7caca84cf5e20",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 150,
+  "filename": "P150_Section.swift",
+  "disposition": "example",
+  "upstream_sha256": "3a09c8c9646d4651125187602f804dff3a4fd273a7c172126662a23aebc68e3b",
+  "adapted_sha256": "826d4d4b7939e07bb4113ab568f3b7c0ff57e1f56fb3cae2218ce6ddb702ae54",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

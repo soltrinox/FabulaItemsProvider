@@ -1,0 +1,8 @@
+{
+  "id": 265,
+  "filename": "P265_RadioComponent.swift",
+  "disposition": "component",
+  "upstream_sha256": "c2fc6b172c45e63eb943d5f00691c30219406cef99630cdd00bdf0c3696fa793",
+  "adapted_sha256": "9e2d74cbcfabb8a0ace6260927dde87c786e49b6b54103779a354548c072e4d2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

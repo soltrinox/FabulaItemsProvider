@@ -1,0 +1,8 @@
+{
+  "id": 25,
+  "filename": "P25_CurveLine.swift",
+  "disposition": "example",
+  "upstream_sha256": "e93a284a901bcd5ed4cc3faad23ad01cf4d1cec9a597b5f4ef65ab209f971614",
+  "adapted_sha256": "07840d82b70635bcf4dc5639f43df543be3245251ec1d2dd6adfca6dc01e61ec",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

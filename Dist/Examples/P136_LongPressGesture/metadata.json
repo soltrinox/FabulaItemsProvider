@@ -1,0 +1,8 @@
+{
+  "id": 136,
+  "filename": "P136_LongPressGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "dcf1cf2aa001a338497a87b1a4a03e5cbd0095a894e4a3b871fcce90590dfdc1",
+  "adapted_sha256": "f22ff472b4ec23f33c6de35e93651954906770f1c803b77f5e3289193913ceca",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

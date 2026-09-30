@@ -1,0 +1,8 @@
+{
+  "id": 218,
+  "filename": "P218_CustomSubscriber.swift",
+  "disposition": "example",
+  "upstream_sha256": "5932a4ae86b61003195843d8056df3128fef68a8a2ef3195a7c0bcf8e7c74873",
+  "adapted_sha256": "071fc9ba977824796964c8129d00df59b8ece575e76b19cc22f811f05f091763",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

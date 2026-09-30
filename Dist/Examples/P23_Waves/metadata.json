@@ -1,0 +1,8 @@
+{
+  "id": 23,
+  "filename": "P23_Waves.swift",
+  "disposition": "example",
+  "upstream_sha256": "dfc15bea914cce5000e84cb1e95435f258ca7d7e2c8722ad55af23b2d4d200cc",
+  "adapted_sha256": "9132bcc72bf2554efd743d4d90b569385e172ac9411c5e385cbae6372bfc49ea",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

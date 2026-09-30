@@ -1,0 +1,8 @@
+{
+  "id": 195,
+  "filename": "P195_BoundsPreferenceKey.swift",
+  "disposition": "example",
+  "upstream_sha256": "ee4ac85c7b3e170897d12b0b70c1295203f2fd31cfb2ef69358124beee4db2c4",
+  "adapted_sha256": "51dc386334602f4f84284407037b1a2ffe874f36c4c79a1b3b83776b0abebf9c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

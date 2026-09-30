@@ -1,0 +1,8 @@
+{
+  "id": 250,
+  "filename": "P250_DynamicViewContent.swift",
+  "disposition": "example",
+  "upstream_sha256": "e05bf88cb46e00a6ddabb356d065d2a18358b5f856be0c57d9f71750839dc882",
+  "adapted_sha256": "2a90f1d288c320074b25a8ecec2fb54f5238a7d0c0dbf85dc9436e6ce39a7b51",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

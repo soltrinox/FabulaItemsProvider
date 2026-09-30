@@ -1,0 +1,8 @@
+{
+  "id": 286,
+  "filename": "P286_ParallaxPoster.swift",
+  "disposition": "example",
+  "upstream_sha256": "225a4d4e87f28729ed701787576e0d095d15c45262c7cb613b763a4b5095a233",
+  "adapted_sha256": "6b895de3fcfbd1e26c7ff77ccd2a4ecc771fa2154ca7c6378f10323eb7dacfd3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 206,
+  "filename": "P206_ButtonTint.swift",
+  "disposition": "example",
+  "upstream_sha256": "d4cc6170e403f97b7c3c90a2f91395a833b26bc50377e621426567cf1ebf00b3",
+  "adapted_sha256": "9cb509dab626e7c5feca5f366fdce87dfdb3ba8d69d5c52ffbe653cda7fb6cdc",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

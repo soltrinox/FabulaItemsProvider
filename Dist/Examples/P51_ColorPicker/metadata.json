@@ -1,0 +1,8 @@
+{
+  "id": 51,
+  "filename": "P51_ColorPicker.swift",
+  "disposition": "example",
+  "upstream_sha256": "f4a4ba60252760ff88c0951be53b0012532e16306afa2dcb9a1cab123c400f58",
+  "adapted_sha256": "fcc7791e96d0ac55ca2aff7d40615a0f3ede8d5aa719d9f86404f9b25581a632",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

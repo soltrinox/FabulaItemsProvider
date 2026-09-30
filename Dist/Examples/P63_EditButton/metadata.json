@@ -1,0 +1,8 @@
+{
+  "id": 63,
+  "filename": "P63_EditButton.swift",
+  "disposition": "example",
+  "upstream_sha256": "bf875f1b1f1a25a97de491050c45a6ab1de94219e771aec66c83e5dc479c54ef",
+  "adapted_sha256": "ab125fdd644c7fd308c7d7b375081499be5a4db02fa049e18df58ef80a05b789",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 19,
+  "filename": "P19_TextWaveProgress.swift",
+  "disposition": "example",
+  "upstream_sha256": "09c5e216bf9e6a7df17bfcbb750a48a0d0372106535418c1de25802edca39a46",
+  "adapted_sha256": "ffe7a9437a795b1124bb0533415c19444239c4178ea4f3b1d2b5bc91c48aee73",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

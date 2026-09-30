@@ -1,0 +1,8 @@
+{
+  "id": 129,
+  "filename": "P129_LabelStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "b371e69484d9163e23a43d53c0a010d2b86dd6c4b1ea4bcbc04b34e4a81885cb",
+  "adapted_sha256": "414e268599b4d4a82d260b6c5347c97699859667c80074c972410439c1de6352",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

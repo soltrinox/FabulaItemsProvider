@@ -1,0 +1,8 @@
+{
+  "id": 267,
+  "filename": "P267_LazyGridView.swift",
+  "disposition": "example",
+  "upstream_sha256": "f63ed14df42812cfb583b8f080a555215bf30b02f3cd72b03c3dc570b2a7acb2",
+  "adapted_sha256": "04b18e7c7e99a2bc7275357c156782dc23ba6442365e03d5775fb5615639c090",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

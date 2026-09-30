@@ -1,0 +1,8 @@
+{
+  "id": 244,
+  "filename": "P244_WarningTextEditor.swift",
+  "disposition": "example",
+  "upstream_sha256": "d26d620b0b5cb118c606098877555bac629f4a304cff115e808ac8813b26cb9a",
+  "adapted_sha256": "817e9b511dcb6da7addc39c130df6b82035c774d9a7944d8856e01c60faf723a",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

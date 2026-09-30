@@ -1,0 +1,8 @@
+{
+  "id": 146,
+  "filename": "P146_ScaledShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "e9642d37fa46cba90265885a7d2abded706bc5aa23c501ddb2187fde8655c6d1",
+  "adapted_sha256": "495c4a61be5456ba8e280ffe3019af7be2f1774a55098ed63f20d26420a6765e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

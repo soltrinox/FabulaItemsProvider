@@ -1,0 +1,8 @@
+{
+  "id": 69,
+  "filename": "P69_IsFocused.swift",
+  "disposition": "example",
+  "upstream_sha256": "ede1d9773c9f1d676fc47caca6d58e9b1a5ccf21a8bf7bb58e510e75e1a553c6",
+  "adapted_sha256": "daf79a203003e26034f63b4abeda1007b1f726dbb6f43044f387cc5e4306a67b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

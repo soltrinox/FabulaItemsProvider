@@ -1,0 +1,8 @@
+{
+  "id": 74,
+  "filename": "P74_DisplayScale.swift",
+  "disposition": "example",
+  "upstream_sha256": "1e81f6dec50a2e1faa7941293cf1d715be16ec88c523af500b84ecf588ec508c",
+  "adapted_sha256": "2fb185ed14c68a4efdf37b1ab1175c7d695fddd542e690c9da9aa6e94bc9a2a8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

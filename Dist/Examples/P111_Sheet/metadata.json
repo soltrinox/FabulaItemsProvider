@@ -1,0 +1,8 @@
+{
+  "id": 111,
+  "filename": "P111_Sheet.swift",
+  "disposition": "example",
+  "upstream_sha256": "52513776ff5b096623a79bdc75b364aa7d9e0e3f6ef6f1dc8728e77426895563",
+  "adapted_sha256": "6f5aedfbd48ed11544fafe638887c5f74d88d2e94056743757d36766d053081e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

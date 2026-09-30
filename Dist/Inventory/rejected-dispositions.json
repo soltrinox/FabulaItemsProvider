@@ -1,0 +1,435 @@
+{
+  "rejected": [
+    {
+      "id": 0,
+      "filename": "P0_Example.swift",
+      "disposition": "reject",
+      "reasons": [
+        "unregistered_template"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 103,
+      "filename": "P103_OpenURL.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 117,
+      "filename": "P117_Link.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 147,
+      "filename": "P147_SceneStorage.swift",
+      "disposition": "reject",
+      "reasons": [
+        "privacy:persistence_of_private_draft"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 182,
+      "filename": "P182_CurveScroll.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 183,
+      "filename": "P183_CircularList.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 201,
+      "filename": "P201_AlamofireBasic.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:Alamofire,SDWebImageSwiftUI"
+      ],
+      "external_dependencies": [
+        "Alamofire",
+        "SDWebImageSwiftUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 202,
+      "filename": "P202_AlamofireRefresh.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:Alamofire,SDWebImageSwiftUI"
+      ],
+      "external_dependencies": [
+        "Alamofire",
+        "SDWebImageSwiftUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 203,
+      "filename": "P203_AlamofirePagination.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:Alamofire,SDWebImageSwiftUI"
+      ],
+      "external_dependencies": [
+        "Alamofire",
+        "SDWebImageSwiftUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 213,
+      "filename": "P213_Zoomable.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:SDWebImageSwiftUI"
+      ],
+      "external_dependencies": [
+        "SDWebImageSwiftUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 215,
+      "filename": "P215_UnsplashProvider.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:SDWebImageSwiftUI,UnsplashProvider"
+      ],
+      "external_dependencies": [
+        "SDWebImageSwiftUI",
+        "UnsplashProvider"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 221,
+      "filename": "P221_Scroller.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:Scroller"
+      ],
+      "external_dependencies": [
+        "Scroller"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 222,
+      "filename": "P222_ScrollerExample1.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:SDWebImageSwiftUI,Scroller,UnsplashProvider"
+      ],
+      "external_dependencies": [
+        "SDWebImageSwiftUI",
+        "Scroller",
+        "UnsplashProvider"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 223,
+      "filename": "P223_ScrollerExample2.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:SDWebImageSwiftUI,Scroller,UnsplashProvider"
+      ],
+      "external_dependencies": [
+        "SDWebImageSwiftUI",
+        "Scroller",
+        "UnsplashProvider"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 224,
+      "filename": "P224_AnimateText.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AnimateText"
+      ],
+      "external_dependencies": [
+        "AnimateText"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 225,
+      "filename": "P225_LottieUI.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:LottieUI"
+      ],
+      "external_dependencies": [
+        "LottieUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 226,
+      "filename": "P226_LottieUIScroller.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:LottieUI,Scroller"
+      ],
+      "external_dependencies": [
+        "LottieUI",
+        "Scroller"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 227,
+      "filename": "P227_Bubble.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:LottieUI"
+      ],
+      "external_dependencies": [
+        "LottieUI"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 228,
+      "filename": "P228_AxisSheet.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisSheet"
+      ],
+      "external_dependencies": [
+        "AxisSheet"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 229,
+      "filename": "P229_StarShape.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisSheet"
+      ],
+      "external_dependencies": [
+        "AxisSheet"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 230,
+      "filename": "P230_AxisRatingBar.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisRatingBar"
+      ],
+      "external_dependencies": [
+        "AxisRatingBar"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 231,
+      "filename": "P231_AxisContribution.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisContribution"
+      ],
+      "external_dependencies": [
+        "AxisContribution"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 232,
+      "filename": "P232_AxisTooltip.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisTooltip"
+      ],
+      "external_dependencies": [
+        "AxisTooltip"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 233,
+      "filename": "P233_AxisTabView.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisTabView"
+      ],
+      "external_dependencies": [
+        "AxisTabView"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 234,
+      "filename": "P234_AxisSegmentedView.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisSegmentedView"
+      ],
+      "external_dependencies": [
+        "AxisSegmentedView"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 236,
+      "filename": "P236_FlatColor.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisSegmentedView"
+      ],
+      "external_dependencies": [
+        "AxisSegmentedView"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 241,
+      "filename": "P241_Mask.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 242,
+      "filename": "P242_Conditional.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 247,
+      "filename": "P247_ScrollViewAlign.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AxisSheet"
+      ],
+      "external_dependencies": [
+        "AxisSheet"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 251,
+      "filename": "P251_EnvironmentKey.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 258,
+      "filename": "P258_CustomPreferenceKey.swift",
+      "disposition": "reject",
+      "reasons": [
+        "adapt_failed_or_axis_helper"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 261,
+      "filename": "P261_CircleAnimateText.swift",
+      "disposition": "third-party-reference",
+      "reasons": [
+        "third_party:AnimateText"
+      ],
+      "external_dependencies": [
+        "AnimateText"
+      ],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 269,
+      "filename": "P269_UrlLink.swift",
+      "disposition": "reject",
+      "reasons": [
+        "network:url_or_remote"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    },
+    {
+      "id": 44,
+      "filename": "P44_AppStorage.swift",
+      "disposition": "reject",
+      "reasons": [
+        "privacy:persistence_of_private_draft"
+      ],
+      "external_dependencies": [],
+      "extraction_status": "inventory_only"
+    }
+  ],
+  "pattern_only": [
+    {
+      "id": 102,
+      "filename": "P102_ScenePhase.swift",
+      "disposition": "pattern-only",
+      "reasons": [],
+      "extraction_status": "pattern_documented"
+    },
+    {
+      "id": 112,
+      "filename": "P112_FullScreenCover.swift",
+      "disposition": "pattern-only",
+      "reasons": [],
+      "extraction_status": "pattern_documented"
+    },
+    {
+      "id": 151,
+      "filename": "P151_SecureField.swift",
+      "disposition": "pattern-only",
+      "reasons": [
+        "privacy:must_rewrite_no_secret_echo"
+      ],
+      "extraction_status": "pattern_documented"
+    },
+    {
+      "id": 268,
+      "filename": "P268_ShareSheet.swift",
+      "disposition": "pattern-only",
+      "reasons": [
+        "use_native_ShareLink_rewrite"
+      ],
+      "extraction_status": "pattern_documented"
+    }
+  ],
+  "counts": {
+    "rejected": 34,
+    "pattern_only": 4,
+    "examples_extracted": 249
+  }
+}

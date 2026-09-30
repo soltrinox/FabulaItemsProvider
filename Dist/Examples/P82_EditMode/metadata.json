@@ -1,0 +1,8 @@
+{
+  "id": 82,
+  "filename": "P82_EditMode.swift",
+  "disposition": "example",
+  "upstream_sha256": "f32d6a9bdf6bb240c1907ca9679fb4eff8b5863e00623fb054d8f27e77eb897f",
+  "adapted_sha256": "f0341a102882513e335789270da7b61b41b9b2368f6c9d234b532892ba7d86d4",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 107,
+  "filename": "P107_Toast.swift",
+  "disposition": "example",
+  "upstream_sha256": "0cf9705f8a6515e884e169cbcabfa14755516c491b412546c7620b7151a8113d",
+  "adapted_sha256": "8527d888e2fca82de148aaaaa612a7fb7614e934283e0550506b8a872f785dc8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

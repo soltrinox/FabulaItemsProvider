@@ -1,0 +1,8 @@
+{
+  "id": 40,
+  "filename": "P40_VStackAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "052c2a44642cd028bf5bdd8c8cf1c2d4524e3729f3003f00b2f79dd103dc173d",
+  "adapted_sha256": "03cb9a5abc45db2553fea31292136068f55e7000cb225b694d486359617ec93a",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

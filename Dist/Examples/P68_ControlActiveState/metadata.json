@@ -1,0 +1,8 @@
+{
+  "id": 68,
+  "filename": "P68_ControlActiveState.swift",
+  "disposition": "example",
+  "upstream_sha256": "7fb38659fc1991f16273d823fe646af63a79bd9e945bd9c4f88617a00779fe24",
+  "adapted_sha256": "0aaf55528d168b798100994045ca0de0df4976870c3bd72c187110d2ddae8ffd",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

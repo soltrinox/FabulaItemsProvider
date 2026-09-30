@@ -1,0 +1,8 @@
+{
+  "id": 128,
+  "filename": "P128_ImagePaint.swift",
+  "disposition": "example",
+  "upstream_sha256": "45383d6c2abdeed1b963c2b2d0ab1d10e0cd7cf93c8d195a23aa190c7b88d239",
+  "adapted_sha256": "3ded30485b6b68ff184759332992876b3b4a085008e777603339bd59210bcccf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

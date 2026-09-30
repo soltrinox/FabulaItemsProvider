@@ -1,0 +1,8 @@
+{
+  "id": 32,
+  "filename": "P32_TextAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "bdb7d8fbacdf75690a4bb1aaaaebce54f61613ae3112bdbc6070b02ea9f6a480",
+  "adapted_sha256": "5ce5f349f6709c6b24be4635e5a74f43b8f97d2a8506040b43756b2d3940199e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 260,
+  "filename": "P260_PickerStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "a998c1e1f3e265148ef993c1d68fa6fd27428206a4b19bacd03d602f54004660",
+  "adapted_sha256": "4744091527fbc646065c4abb1ed11e7f6a434703c5e004d550026de01850604d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

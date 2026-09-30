@@ -1,0 +1,8 @@
+{
+  "id": 273,
+  "filename": "P273_ShapeGenerator.swift",
+  "disposition": "example",
+  "upstream_sha256": "2f35067a57f891d6b240fa3f5d2f16aa1628c9893b6f7656b52d9f4c27b82f67",
+  "adapted_sha256": "ddbf430fb10901f8faa2cd5e2546cf64d9b8b8556c7508a0a947e2eeb4b7adac",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

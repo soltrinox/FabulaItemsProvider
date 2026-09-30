@@ -1,0 +1,8 @@
+{
+  "id": 254,
+  "filename": "P254_GeometryEffect.swift",
+  "disposition": "example",
+  "upstream_sha256": "beba474b5ec59de6f9cc25d370eac7b9d8287fa1210b8c3062aa2e124c819750",
+  "adapted_sha256": "ccb59c021a6cd12a06cf8a61cd7b4ff5bf98d901b063b4f33c720f82c770b2ca",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

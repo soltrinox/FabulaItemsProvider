@@ -1,0 +1,8 @@
+{
+  "id": 133,
+  "filename": "P133_LazyVStack.swift",
+  "disposition": "example",
+  "upstream_sha256": "b3c360340deb5358eb88dc6416944d9347f12e79cf782d2b53d6ff819fcdb017",
+  "adapted_sha256": "698aacb8c3edbc06adead99396e042a6bbb6c3a31cd7ff643e070e3d8fbc4a71",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 38,
+  "filename": "P38_ActionSheet.swift",
+  "disposition": "example",
+  "upstream_sha256": "fed8c5442e2b60308caa061caf3ec36eed44ac8bb74f44d501bd963aea361d32",
+  "adapted_sha256": "a26cb214f993a99996b6e58c5e3f970057cc1bd9d1bd3beb0f81b70cfc201ce8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 252,
+  "filename": "P252_EnvironmentalModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "a3989bd76de7b1de0b8ea9474551db7cdfdbaef3c49e28720ad9d713bad0df9c",
+  "adapted_sha256": "d1e7c39647094c7f64805ec70fbf5f3fb59d79199ed4aeb5012548f96c04a99e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

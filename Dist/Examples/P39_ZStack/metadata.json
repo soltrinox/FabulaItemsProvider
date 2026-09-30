@@ -1,0 +1,8 @@
+{
+  "id": 39,
+  "filename": "P39_ZStackAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "5f857b55d873e20c68b80091d6ead4c6a080a6da0949dc2747e63cdca5c1ec98",
+  "adapted_sha256": "4fef4ce515a806c60bd657d258ddffeb2141d01822c0f1ea48e7c62043cef054",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

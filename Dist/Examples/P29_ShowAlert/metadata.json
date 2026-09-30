@@ -1,0 +1,8 @@
+{
+  "id": 29,
+  "filename": "P29_Alert.swift",
+  "disposition": "example",
+  "upstream_sha256": "9c4cf2fa938f3e9292fe327d1bf3f46c85a150e5fc75fa7e5031acc4287c7920",
+  "adapted_sha256": "4f3fbee35a9e05a7134d207bbcbedeb174cb49529773cd46554e2240813776f5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

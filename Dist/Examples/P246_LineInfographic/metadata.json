@@ -1,0 +1,8 @@
+{
+  "id": 246,
+  "filename": "P246_FabulaItemsInfographic.swift",
+  "disposition": "example",
+  "upstream_sha256": "7610e3969ca8d8e54218bb93475fe76c9129e5eabb15cba460412b8c6de77828",
+  "adapted_sha256": "45aa7d4f35a52bcc939571564dceccf23a4c384be96d67639369835ce6844bb3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

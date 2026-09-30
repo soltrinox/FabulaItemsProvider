@@ -1,0 +1,8 @@
+{
+  "id": 255,
+  "filename": "P255_DoubleClick.swift",
+  "disposition": "example",
+  "upstream_sha256": "b65f1d7a4f3e939c648d2396cece9d69e35aa33d3602c784b7070cad275248ae",
+  "adapted_sha256": "2e8565067f14a4a3e862f4c19086349c8c07e8c587713e1f5749005684e6380f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

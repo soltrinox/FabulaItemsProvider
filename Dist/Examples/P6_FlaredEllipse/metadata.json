@@ -1,0 +1,8 @@
+{
+  "id": 6,
+  "filename": "P6_FlaredEllipse.swift",
+  "disposition": "example",
+  "upstream_sha256": "4a7bc0d74712a8a71c623e4aba66f1a05b31391a78711695d2167e676fe3b2a2",
+  "adapted_sha256": "83ddc16128a760c02fabf3f3527be46a7d300cd58bd096d5d59ccfd9057ef695",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

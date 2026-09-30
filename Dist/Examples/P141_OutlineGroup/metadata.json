@@ -1,0 +1,8 @@
+{
+  "id": 141,
+  "filename": "P141_OutlineGroup.swift",
+  "disposition": "example",
+  "upstream_sha256": "59046e44be03619df9ffc355235bd710f0c4be4cfafeb0e3473717c848f83864",
+  "adapted_sha256": "66d3884ee17795cbf64d10fceb9ad84d1eb23191cb5dfac4906b3ee3dba792d9",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

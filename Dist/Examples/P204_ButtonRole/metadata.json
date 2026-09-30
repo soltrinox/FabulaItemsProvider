@@ -1,0 +1,8 @@
+{
+  "id": 204,
+  "filename": "P204_ButtonRole.swift",
+  "disposition": "example",
+  "upstream_sha256": "36fbabcfb17803c9db70d9bae61b01006cbe0e5f1580a7beace1973187c9103e",
+  "adapted_sha256": "969d83cd6ba4e4124551a87c2c6c049d93d6b56c1d0683ff7f246db007e98114",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

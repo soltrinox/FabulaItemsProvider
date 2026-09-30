@@ -1,0 +1,8 @@
+{
+  "id": 45,
+  "filename": "P45_BackgroundStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "a977518b655e84e16d558aec316050b52e9a04a73fe1c04f2d6af48f71527eaa",
+  "adapted_sha256": "74a7a555e328f028087046f08e3a2189d4b2a1a579e0dce226324e1a09738e36",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

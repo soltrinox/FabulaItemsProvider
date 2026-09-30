@@ -1,0 +1,8 @@
+{
+  "id": 120,
+  "filename": "P120_ExclusiveGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "1ce88f33389ba279201cafd687ea1d455e77b94c48fcd5273bd0f64c334c6018",
+  "adapted_sha256": "83dfab1dd476004f0cb2fb78ebfe8f0adcc72d8aa4a7a5a909806f368f773211",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

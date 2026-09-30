@@ -1,0 +1,8 @@
+{
+  "id": 169,
+  "filename": "P169_TupleView.swift",
+  "disposition": "example",
+  "upstream_sha256": "81fa46fed828b54c3f08f347083341645e1ba7d7d4a9349d72e83d79f09327c9",
+  "adapted_sha256": "7d2ff19cea845694fc18acb68d88e05f83e44b48dd1d94c3bb1358fd0bd67b2e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

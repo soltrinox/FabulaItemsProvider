@@ -1,0 +1,8 @@
+{
+  "id": 248,
+  "filename": "P248_AlignmentID.swift",
+  "disposition": "example",
+  "upstream_sha256": "c19ec72352265a5ecfac9ac8535fdcbfc74becb99bad1a5df58c3ac14249edce",
+  "adapted_sha256": "c1944c7e0ab692037c3a516f778546be7f61e3cd6cd66c3f02122e9d5354dd03",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

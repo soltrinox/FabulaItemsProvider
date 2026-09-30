@@ -1,0 +1,8 @@
+{
+  "id": 75,
+  "filename": "P75_SizeClass.swift",
+  "disposition": "example",
+  "upstream_sha256": "8fff7d921203a5a5c0914b9e66d5ec600979d393b19e18bc650255db41cc9b5e",
+  "adapted_sha256": "468fd7e2a17f44e1afff86b82498b073eb134ee39818b787d0ad9caa0eb7e41b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

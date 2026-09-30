@@ -1,0 +1,8 @@
+{
+  "id": 181,
+  "filename": "P181_ScrollOffset.swift",
+  "disposition": "example",
+  "upstream_sha256": "99194322b618d4990978642f89d0144e355834e1b1012991cbb55cda793a9870",
+  "adapted_sha256": "18bea12196b955a097f615b75516d83dd956734f9e729393ed83b7a3fc086189",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

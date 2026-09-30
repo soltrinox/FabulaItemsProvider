@@ -1,0 +1,8 @@
+{
+  "id": 178,
+  "filename": "P178_CustomViewModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "b376b199c63a63a1c3b946a3c0946997968cb5ae38d9aa09538e834860d8acd5",
+  "adapted_sha256": "e9b1e9d78d62567e8ebfb47d0e42ab15f9c13868e865ed867349979cb21bcbcf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

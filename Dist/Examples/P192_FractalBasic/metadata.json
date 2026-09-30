@@ -1,0 +1,8 @@
+{
+  "id": 192,
+  "filename": "P192_FractalBasic.swift",
+  "disposition": "example",
+  "upstream_sha256": "338bbe3dc3789421c6f1262c90f964395deac099cbfd032761215673ec476229",
+  "adapted_sha256": "aa8a07cfdc06c934578f0c6f395f8ec58eb531c7cea9e7c3de0dd30b2f6892b1",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 113,
+  "filename": "P113_Popover.swift",
+  "disposition": "example",
+  "upstream_sha256": "39440e96c9881087a1374887bfdff3b0a54ca486983841dceb143e15496e11ce",
+  "adapted_sha256": "e8b2dcd6a44205010540ae877423396202e1aec4e2c3ff6c5a951d293cea47c3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

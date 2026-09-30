@@ -1,0 +1,8 @@
+{
+  "id": 262,
+  "filename": "P262_BarGraph.swift",
+  "disposition": "example",
+  "upstream_sha256": "50f67395104eb5265f572958249fad24d589b97c1ddf1e460970248d45e24df9",
+  "adapted_sha256": "48e308e6d0f8e38d298e1dd7dbe61d3bb6f342af48675105ce9deedb98e9bed5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

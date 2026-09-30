@@ -1,0 +1,8 @@
+{
+  "id": 210,
+  "filename": "P210_ZoomModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "687b2e5ea20db30ef5d1ee16b80d10d0ff6e5f3cbe47fd969f639415e40ef112",
+  "adapted_sha256": "ab02f3ac357a7b7a29156b4bae8238cfde15ab35a0e77b1ee18c80478cb3716f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

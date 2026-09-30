@@ -1,0 +1,8 @@
+{
+  "id": 123,
+  "filename": "P123_GestureMask.swift",
+  "disposition": "example",
+  "upstream_sha256": "0d037a97188b60aed5dcfe8da0e4b937e2c3128eb0837e1c6753aa96208fc47b",
+  "adapted_sha256": "0e4eabe114c7a5d113f9ee76a18f5c35e52324157b7565903247fef539160c66",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

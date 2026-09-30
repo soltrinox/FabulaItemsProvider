@@ -1,0 +1,8 @@
+{
+  "id": 163,
+  "filename": "P163_TimingCurve.swift",
+  "disposition": "example",
+  "upstream_sha256": "7f1dd1970227211301192612f1d0226f837993fbcd595b3e5cb975798bdeba86",
+  "adapted_sha256": "b1fc420907d9165410396ce96b9658fb9131efeb7ef676575846d32b4ac4cded",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 95,
+  "filename": "P95_AllowsTightening.swift",
+  "disposition": "example",
+  "upstream_sha256": "dbf5575fa9749d2005fed21736d76b747c6d63362c163d83704ae0e67a737a86",
+  "adapted_sha256": "4201afd45b4db3cdbaf0eb6debe71be6f064e2f863672533981511db41f5e17f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

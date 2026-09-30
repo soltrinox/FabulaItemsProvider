@@ -1,0 +1,8 @@
+{
+  "id": 87,
+  "filename": "P87_IsSearching .swift",
+  "disposition": "example",
+  "upstream_sha256": "be6829af53119fe5f84460b104d2f8d017efa4ecb0d17c0a79458c13864a3549",
+  "adapted_sha256": "47569881468e8831d6f5d4be28da6c69d73a9d937eb7029f316e7dee82167fa3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

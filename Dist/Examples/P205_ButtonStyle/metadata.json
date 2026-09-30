@@ -1,0 +1,8 @@
+{
+  "id": 205,
+  "filename": "P205_ButtonStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "d32af0c596f235e69e2ef38dcc87105fc178951b506c400dc3ff06780182c4f7",
+  "adapted_sha256": "3b94ca95880f42b69debb210ca58b44b0c9a7c93df156384eaa5cb4a0a30433e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

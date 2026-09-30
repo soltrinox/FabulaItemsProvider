@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "filename": "P5_FlaredCapsule.swift",
+  "disposition": "example",
+  "upstream_sha256": "3f28240068ada86219c745ba5043f57cd51c5df43d1c4f277be6d418ed7a9fe5",
+  "adapted_sha256": "34457b3c0d8ca950438793c2121761f26a1b525fad0f2ebcc3152100f7483f7b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

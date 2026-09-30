@@ -1,0 +1,8 @@
+{
+  "id": 237,
+  "filename": "P237_InitialState.swift",
+  "disposition": "example",
+  "upstream_sha256": "8b9c8f2404143d651344e1f183d673e045e001b768ade7582fa538d038284b45",
+  "adapted_sha256": "db1611ff9bef99a110966d94bcac75f2a7730ee755804fcc314e301ac74b2f22",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

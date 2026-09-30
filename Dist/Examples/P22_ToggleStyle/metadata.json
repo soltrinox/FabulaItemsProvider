@@ -1,0 +1,8 @@
+{
+  "id": 22,
+  "filename": "P22_FabulaToggleStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "64defa790e53bc9a27168b5dbce0ae21593f09778fb1784c538dac8be1551ed4",
+  "adapted_sha256": "cefae2fadbc16ddd77cb409fc142748d0b6b32344894eb0dc97fdc8201d95c39",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

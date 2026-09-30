@@ -1,0 +1,8 @@
+{
+  "id": 272,
+  "filename": "P272_CollapsibleView.swift",
+  "disposition": "example",
+  "upstream_sha256": "b80b3fd22089f6c5740af4735b4e878b66229f1f8f0a298e1d60f777d7cdad89",
+  "adapted_sha256": "420b96d61a3c15fb7aa7a952d3fdfacb9428fba097f1d5d239b21480985ae1bf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 161,
+  "filename": "P161_Namespace.swift",
+  "disposition": "example",
+  "upstream_sha256": "aa5cae399abfbe0cf62ca3b6b682f2ae272f6aab563092eb7ffd3b3e4d5b0837",
+  "adapted_sha256": "f04021933aa82d7e5eac0f0645d011e8f76222a4f2dd413caca677078370090f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

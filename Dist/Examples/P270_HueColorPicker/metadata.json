@@ -1,0 +1,8 @@
+{
+  "id": 270,
+  "filename": "P270_HueColorPicker.swift",
+  "disposition": "example",
+  "upstream_sha256": "3b10a6c463c0c7a6f861c5feb53c7924ebc375a633ad17dfbdc9e5b8e5dcbda5",
+  "adapted_sha256": "d1b7bc412c7fa6072281e2cba87460da4b5ff68764d752ee4985992f83ea8816",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 20,
+  "filename": "P20_CircularProgress.swift",
+  "disposition": "example",
+  "upstream_sha256": "39ffa94915cf6de2cfc3bc0cc2a8869bebedf72775fc4aab9de71ca6682ee568",
+  "adapted_sha256": "358ee08cddea4ca9b1279b40b618a336c36c5b621fad30f3714247489055739a",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

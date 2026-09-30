@@ -1,0 +1,8 @@
+{
+  "id": 176,
+  "filename": "P176_TabSegmentedView.swift",
+  "disposition": "example",
+  "upstream_sha256": "aa94d1c7c6130e6d83478822a50f31e792160cd14260b41e121aebd8b195947e",
+  "adapted_sha256": "bf12cb97c77a8e05e525c8a49f0e97398ae3903092ec25d0fdf166f91d0669c3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

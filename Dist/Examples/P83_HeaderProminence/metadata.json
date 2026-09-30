@@ -1,0 +1,8 @@
+{
+  "id": 83,
+  "filename": "P83_HeaderProminence.swift",
+  "disposition": "example",
+  "upstream_sha256": "3d1ba79f334abc0ff46a57a4edcb42b4825d63c4d7aff68629dac6babd7ded5d",
+  "adapted_sha256": "256c89618982f999283cbd0c86c3443c91703c6877c948b37116b1d388917739",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

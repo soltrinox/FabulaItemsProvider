@@ -1,0 +1,8 @@
+{
+  "id": 36,
+  "filename": "P36_WithAnimation.swift",
+  "disposition": "example",
+  "upstream_sha256": "043f5353fa26c7f7230a71a5dd58d62a50d9fae1935331be7cfdb721fc04a5f3",
+  "adapted_sha256": "1b0ba973ec388228cb4e1e99e753199ec7f673b9549bb1eb34560e3306bdf20f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

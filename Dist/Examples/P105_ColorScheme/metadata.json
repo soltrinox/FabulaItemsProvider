@@ -1,0 +1,8 @@
+{
+  "id": 105,
+  "filename": "P105_ColorScheme.swift",
+  "disposition": "example",
+  "upstream_sha256": "0db469206b40be00e3058c9424da7dd00576897493074846b339057686068f63",
+  "adapted_sha256": "58ded9d524972c404869d9572ded47affb054d71c3561fc7b14f92d825f41631",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

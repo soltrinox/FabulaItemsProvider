@@ -1,0 +1,8 @@
+{
+  "id": 253,
+  "filename": "P253_FocusedValueKey.swift",
+  "disposition": "example",
+  "upstream_sha256": "f691deeb9e60fd1e13c2137ce81a719bdb0fe5b4311ad1cc5bf9a83b903c7375",
+  "adapted_sha256": "a3ada79452adf52be0d4cab56855db651c633f836776dc18e4ef18c88d012f3b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

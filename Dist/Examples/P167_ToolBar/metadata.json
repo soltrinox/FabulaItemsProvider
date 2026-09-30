@@ -1,0 +1,8 @@
+{
+  "id": 167,
+  "filename": "P167_ToolBar.swift",
+  "disposition": "example",
+  "upstream_sha256": "1258b187230d92ae5384df2c05384b17e37a4d5dd05dbf6dfb3e9d720715590c",
+  "adapted_sha256": "ba7b92d958be16154b6e40b7b1c957cca88b63ca581ab8cc4f3aa9462a635f40",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

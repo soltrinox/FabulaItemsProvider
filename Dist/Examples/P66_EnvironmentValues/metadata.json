@@ -1,0 +1,8 @@
+{
+  "id": 66,
+  "filename": "P66_Environment.swift",
+  "disposition": "example",
+  "upstream_sha256": "4a7c09498569602b5ee9f85e817d9542cf48d18adb771b7b656d01de5b40080a",
+  "adapted_sha256": "9b5e7b2fe44f681181dcf4f933e1f8ca234b83751280748c132a69e83a26db84",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

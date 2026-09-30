@@ -1,0 +1,8 @@
+{
+  "id": 125,
+  "filename": "P125_LinearGradient.swift",
+  "disposition": "example",
+  "upstream_sha256": "72113325487dccf234853ce34ab2ccbebfe4f05b4c6225bfc6d434f97c27e403",
+  "adapted_sha256": "57ce70d6e61c6590431a12d74afc3ca5be6016863a2683e4bac2eb56fbec0509",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

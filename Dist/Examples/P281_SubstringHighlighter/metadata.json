@@ -1,0 +1,8 @@
+{
+  "id": 281,
+  "filename": "P281_TextSubstringHighlighter.swift",
+  "disposition": "component",
+  "upstream_sha256": "29428f5eca0ac668304c56f482c60cb2fcbdc7d58728f189c174cf905d895fbe",
+  "adapted_sha256": "26f259520e46c8ec437f877e7fc2ce0e6c35f20ea67089b39e55086d3ff41a97",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 263,
+  "filename": "P263_NavigationBar.swift",
+  "disposition": "example",
+  "upstream_sha256": "2d05fa879d0d68424144cfdda3deae535aaba3e73343b7ba3628545d48caf340",
+  "adapted_sha256": "ce06b17f2b5526e3c30533b75208ea7fbd7981b91fd53d09dc5d3b1151fa3561",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 54,
+  "filename": "P54_GroupBox.swift",
+  "disposition": "example",
+  "upstream_sha256": "b97466b011191f628c19d4ef9badfd8e18361914c43aef6f3721e1f79dae0948",
+  "adapted_sha256": "137770db3f06f553b8ca20ae7e163adf15b6fba9a3a74d010fc56a89d4d2b433",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

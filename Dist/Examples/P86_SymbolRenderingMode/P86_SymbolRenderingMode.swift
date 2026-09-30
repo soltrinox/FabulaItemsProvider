@@ -1,0 +1,60 @@
+// MIT © 2022 jasudev — adapted for Fabula Dist toolkit
+// Upstream id: P86
+// Adapted: local theme; print removed; no third-party.
+
+import SwiftUI
+
+
+import SwiftUI
+
+public struct FabulaExample86_SymbolRenderingMode: View {
+    
+    public init() {}
+    public var body: some View {
+#if os(iOS)
+        VStack(spacing: 20) {
+            Image(systemName: "person.3.sequence.fill")
+                .imageScale(.large)
+            HStack {
+                Image(systemName: "person.3.sequence.fill")
+                    .imageScale(.large)
+                    .environment(\.symbolRenderingMode, .palette)
+                Text(".palette")
+            }
+            HStack {
+                Image(systemName: "person.3.sequence.fill")
+                    .imageScale(.large)
+                    .environment(\.symbolRenderingMode, .hierarchical)
+                Text(".hierarchical")
+            }
+            HStack {
+                Image(systemName: "person.3.sequence.fill")
+                    .imageScale(.large)
+                    .environment(\.symbolRenderingMode, .monochrome)
+                Text(".monochrome")
+            }
+            HStack {
+                Image(systemName: "person.3.sequence.fill")
+                    .imageScale(.large)
+                    .environment(\.symbolRenderingMode, .multicolor)
+                Text(".multicolor")
+            }
+            HStack {
+                Image(systemName: "person.3.sequence.fill")
+                    .imageScale(.large)
+                    .environment(\.symbolRenderingMode, .none)
+                Text(".none")
+            }
+        }
+        .foregroundStyle(.red, .green, .blue)
+#else
+        EmptyView()
+#endif
+    }
+}
+
+struct FabulaExample86_SymbolRenderingMode_Previews: PreviewProvider {
+    static var previews: some View {
+        FabulaExample86_SymbolRenderingMode()
+    }
+}

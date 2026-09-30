@@ -1,0 +1,8 @@
+{
+  "id": 72,
+  "filename": "P72_RedactionReasons.swift",
+  "disposition": "example",
+  "upstream_sha256": "dffeaf12ef9d14473d777791b8852b7552db740114c04a3c4f9d94e709f53fad",
+  "adapted_sha256": "013c922f45788fa19bc2062c4f6e21706a53c4b1b725111387293f7e85a34c9f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

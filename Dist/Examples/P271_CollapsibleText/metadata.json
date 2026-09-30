@@ -1,0 +1,8 @@
+{
+  "id": 271,
+  "filename": "P271_CollapsibleText.swift",
+  "disposition": "example",
+  "upstream_sha256": "5860745661707edc18726ed300d37af460feeed1b5064b22963fff7437f13ebb",
+  "adapted_sha256": "8b2e8e28947e0861b54c9c1f82ef5b12b0feab0951fa5c8491c143ef82aef0da",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

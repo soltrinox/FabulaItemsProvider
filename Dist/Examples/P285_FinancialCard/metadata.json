@@ -1,0 +1,8 @@
+{
+  "id": 285,
+  "filename": "P285_FinancialCard.swift",
+  "disposition": "example",
+  "upstream_sha256": "25170928fdb1a248e4cdf669f445c43de2decebf0cb48e241d2f6e24faf228e4",
+  "adapted_sha256": "e993f25fba98623336e2bc6f8f6ade559914d82f17f832bb0d28905aac327b59",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

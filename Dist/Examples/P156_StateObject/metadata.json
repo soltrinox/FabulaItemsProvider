@@ -1,0 +1,8 @@
+{
+  "id": 156,
+  "filename": "P156_StateObject.swift",
+  "disposition": "example",
+  "upstream_sha256": "63d56d2ee301ffe30f5204ff033cb693458cc808a187daad76037017fa9141cd",
+  "adapted_sha256": "5a560a5443270c16b86a33374849a39cc9dc289ad8671117b25cdd21d591e19f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

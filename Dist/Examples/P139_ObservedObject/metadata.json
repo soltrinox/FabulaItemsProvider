@@ -1,0 +1,8 @@
+{
+  "id": 139,
+  "filename": "P139_ObservedObject.swift",
+  "disposition": "example",
+  "upstream_sha256": "482cb1cbd6c88cdb81d8b35092e7ab0c8c28b24bec8eae35a74cd5fb8c8ce245",
+  "adapted_sha256": "3aa495e0aafc637b0044b066d50dfc997ae124d6b464ab4ca5b827d356ff5f7a",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

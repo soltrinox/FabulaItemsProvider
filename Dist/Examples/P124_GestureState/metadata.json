@@ -1,0 +1,8 @@
+{
+  "id": 124,
+  "filename": "P124_GestureState.swift",
+  "disposition": "example",
+  "upstream_sha256": "65030dd70acd25ac9695ad9b6c15b09987344a481898d4a4bf303e6779391494",
+  "adapted_sha256": "5246baef85257ec6d94a1d5b67f9dc5c9d4062db555f83ada02f35fa0dfa5957",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

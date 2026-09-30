@@ -1,0 +1,8 @@
+{
+  "id": 34,
+  "filename": "P34_TextSpacing.swift",
+  "disposition": "example",
+  "upstream_sha256": "0e3ce456578c92bf7315478aa22a1cb43bbbb99ebd5f8930f188838f53f9b303",
+  "adapted_sha256": "c08b5ff3b0fa53dfadff8c46644f600c9f9f334fda0d8da4d381d0c8d86f1840",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

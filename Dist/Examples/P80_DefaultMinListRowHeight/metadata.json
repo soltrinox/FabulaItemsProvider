@@ -1,0 +1,8 @@
+{
+  "id": 80,
+  "filename": "P80_DefaultMinListRowHeight.swift",
+  "disposition": "example",
+  "upstream_sha256": "7a9d8a434438ed47afcd874d9168b874a8a9a6536207e58efa58bbff6ec58a10",
+  "adapted_sha256": "aa177920d226b70c7518023604117e526b507bf0ced72f4a9b6006596d662413",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 88,
+  "filename": "P88_DismissSearch.swift",
+  "disposition": "example",
+  "upstream_sha256": "a6164a66e9b8037d2766140287adb9dac5ed1513e5a32b81b3cc3dac86b2242d",
+  "adapted_sha256": "64c5385675306a1553f8df5d1a615904fad45c9132db9894797ca797f39c54ad",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

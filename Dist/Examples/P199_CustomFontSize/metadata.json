@@ -1,0 +1,8 @@
+{
+  "id": 199,
+  "filename": "P199_CustomFontSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "c03d1e2fd3e1e4219787580f05f8110d312445f462ad1c2530084081ca6eb5c7",
+  "adapted_sha256": "05db577e459f5cfe494b7b2b3f1b0764923de4d1987aa529818e55e131289acb",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

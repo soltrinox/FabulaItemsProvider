@@ -1,0 +1,8 @@
+{
+  "id": 47,
+  "filename": "P47_ButtonStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "094e649c3822dbb3f5860f7b9bb2eb592c9c6ad01baec3612d166c28760640c8",
+  "adapted_sha256": "e33c4be9559a2d9747393bff607973dbcc334a7909d4825ef41e0b7dda044ec8",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

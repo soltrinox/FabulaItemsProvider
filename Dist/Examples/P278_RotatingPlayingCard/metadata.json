@@ -1,0 +1,8 @@
+{
+  "id": 278,
+  "filename": "P278_RotatingPlayingCard.swift",
+  "disposition": "example",
+  "upstream_sha256": "4768701e3a308599764daa001f197be3ff518702492afe9cbadd5240282ad7d9",
+  "adapted_sha256": "b529637e9ed348e1df82589bc7d87b836b6818ee5be8ca573bf7cf3a62167936",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

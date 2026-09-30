@@ -1,0 +1,8 @@
+{
+  "id": 108,
+  "filename": "P108_ReverseMask.swift",
+  "disposition": "example",
+  "upstream_sha256": "4f4a07d5c5046b561fdef59e2f90f0b93949eb7e23abc7d8c8a5b92ef55b5ba8",
+  "adapted_sha256": "5699bd2e28ace3a770045aeeab110b0a5175d09a3fe9de3bc6364fa4fb6d1765",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

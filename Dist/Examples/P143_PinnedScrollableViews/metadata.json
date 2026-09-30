@@ -1,0 +1,8 @@
+{
+  "id": 143,
+  "filename": "P143_PinnedScrollableViews.swift",
+  "disposition": "example",
+  "upstream_sha256": "7d38fef7c0586bfb0f6cd82b8ffe8a989d773f06e0569ec71cf37060f374bd12",
+  "adapted_sha256": "582790caee8e5f90fd944bff3e62a24be1071b0edb92725aba47259ae9d9c806",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 214,
+  "filename": "P214_TextFieldClear.swift",
+  "disposition": "example",
+  "upstream_sha256": "a5e880bc6129021886f927e9f7f92dc5c29337bba7723bc498078ffb381c1157",
+  "adapted_sha256": "9346bb65dc241d98e49231141925d81c47d820d250c161bb19ce50abe0b534ef",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

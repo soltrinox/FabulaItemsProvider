@@ -1,0 +1,8 @@
+{
+  "id": 122,
+  "filename": "P122_GeometryReader.swift",
+  "disposition": "example",
+  "upstream_sha256": "2182f32a1a383c965d87d6f71a6b103c9ef2fa60579d0e3d40043ec7b0a25071",
+  "adapted_sha256": "25f086f1f821e6211ece4cb1dced1afc571cef8f17bc4fff612c07b96a4a88a3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

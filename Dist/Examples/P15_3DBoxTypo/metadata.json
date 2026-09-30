@@ -1,0 +1,8 @@
+{
+  "id": 15,
+  "filename": "P15_3DBoxTypography.swift",
+  "disposition": "example",
+  "upstream_sha256": "94d3cd6dc7a0f4f2465b77c1da88d1a270b8f45325a5cd68e64335cdc19b25b4",
+  "adapted_sha256": "576d43e8b9e2eb56cff64f511c1ae332fe82e6a24308baeaa69137fc62f55ba1",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

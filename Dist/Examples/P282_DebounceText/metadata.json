@@ -1,0 +1,8 @@
+{
+  "id": 282,
+  "filename": "P282_DebouncedText.swift",
+  "disposition": "component",
+  "upstream_sha256": "b2a54ee804782e8309d1b97a90ba5cb2e24bd8698dd74febe2f58ac498f5af74",
+  "adapted_sha256": "a4321de2cf6f77d903302a57251a368e548f9e16d653a48b7c1507fafc8530b5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

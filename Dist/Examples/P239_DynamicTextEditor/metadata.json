@@ -1,0 +1,8 @@
+{
+  "id": 239,
+  "filename": "P239_DynamicTextEditor.swift",
+  "disposition": "example",
+  "upstream_sha256": "b206ff865f23692abcaee1eb15dc00e82b0ef42dbec618c866e5a46cd0243ef1",
+  "adapted_sha256": "c0072d42fd27857855b3a06e31d25bf3d491a2974ae224ea09594ab8e4cba6f2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

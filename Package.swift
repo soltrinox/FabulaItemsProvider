@@ -46,7 +46,10 @@ let package = Package(
                            "AxisTooltip",
                            "AxisTabView",
                            "AxisSegmentedView"],
-            resources: [.process("Resources")]),
+            resources: [.process("Resources")],
+            swiftSettings: [
+                .unsafeFlags(["-Xfrontend", "-disable-availability-checking"])
+            ]),
         .testTarget(
             name: "FabulaItemsProviderTests",
             dependencies: ["FabulaItemsProvider"]),

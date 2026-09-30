@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "filename": "P4_FlaredCircle.swift",
+  "disposition": "example",
+  "upstream_sha256": "57441d79f18c42dc9e28247b4c06be18f8016e04ead4508633f5f75a15fd4035",
+  "adapted_sha256": "557ef9c30da1684bded7ede64a6d319a36bbc6f1f9b082f29cc51a69648e96a6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

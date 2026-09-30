@@ -1,0 +1,8 @@
+{
+  "id": 142,
+  "filename": "P142_PageIndexViewStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "e173e8ab808fe80befc84751a8c85243cb652b6716ec1de08fcbe4f425e95990",
+  "adapted_sha256": "6f34f264a8a025a48f341bacb645fbf42efecaba855df7616aba5fdada1e5da6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

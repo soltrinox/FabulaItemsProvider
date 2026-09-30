@@ -1,0 +1,8 @@
+{
+  "id": 283,
+  "filename": "P283_CatchCat.swift",
+  "disposition": "example",
+  "upstream_sha256": "f0718856ff0ee1006d2160e0d9be5f99f1712fb4e60a4edddadc8ddb8638aa76",
+  "adapted_sha256": "6e0c57f6c9311c2f5bede0230cb428da1354183009f32089c1d2e197cb917604",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 97,
+  "filename": "P97_MinimumScaleFactor.swift",
+  "disposition": "example",
+  "upstream_sha256": "6b772a515551e5e8896d49110d3c71c0ea25d3112684c23755abf746b7d03c80",
+  "adapted_sha256": "c277c81d2339b3ad8fde62fff6c8e83ccb2610f7ff2274182b1c1d7110dceb16",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

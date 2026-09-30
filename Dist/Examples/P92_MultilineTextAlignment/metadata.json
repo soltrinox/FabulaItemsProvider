@@ -1,0 +1,8 @@
+{
+  "id": 92,
+  "filename": "P92_MultilineTextAlignment.swift",
+  "disposition": "example",
+  "upstream_sha256": "59df50ff7b036b0fa1513525c0bd26afaae059acabb529813508ec460141f3f4",
+  "adapted_sha256": "120c6dcfc6c1c71b54aafc1a3f4f9b080816ac92e914a16435aa64dd9fe90a0b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

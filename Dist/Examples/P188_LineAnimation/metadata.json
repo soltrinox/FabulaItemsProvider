@@ -1,0 +1,8 @@
+{
+  "id": 188,
+  "filename": "P188_LineAnimation.swift",
+  "disposition": "example",
+  "upstream_sha256": "811b2ebd3f45dd1622a2212b9b4d003cc81e6f8a540f1031ef605776598532f9",
+  "adapted_sha256": "6761175dd6dbd40e84caf1ea73b084e408866d709bae661561fc6b4262884818",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

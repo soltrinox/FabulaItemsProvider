@@ -1,0 +1,8 @@
+{
+  "id": 65,
+  "filename": "P65_EmptyView.swift",
+  "disposition": "example",
+  "upstream_sha256": "4735c5b23c715078bc6316277576294b48d2571efc076b59b64cac648cf250fa",
+  "adapted_sha256": "92ece3e5a67313edeb8126d518244b8a2ee697f7ecf56bd2f276aa8b6e247376",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

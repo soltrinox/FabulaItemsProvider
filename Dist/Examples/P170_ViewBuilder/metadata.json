@@ -1,0 +1,8 @@
+{
+  "id": 170,
+  "filename": "P170_ViewBuilder.swift",
+  "disposition": "example",
+  "upstream_sha256": "f368f9abb55f73017b2643d6b699fafbd33a84d276dbd8329c4f3a2da35084dd",
+  "adapted_sha256": "a847573c801f8ee9e301b38c6ed2f54fdac036697f8b3132b94a17d8e66d3b17",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

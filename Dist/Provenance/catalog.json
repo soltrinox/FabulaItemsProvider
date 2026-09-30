@@ -1,0 +1,2799 @@
+{
+  "license_file": "Dist/Provenance/LICENSE",
+  "license_present": true,
+  "entry_count": 283,
+  "entries": [
+    {
+      "dist_path": "Foundation/FabulaFoundation.swift",
+      "kind": "foundation",
+      "sha256": "eddeeb22d60caeeca001ac7f1b7dc6eaa0e3f6716c78c4553268a1ce63160365",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Theme/FabulaTheme.swift",
+      "kind": "theme",
+      "sha256": "3c5a8b72da7c9ef336e97704ce44bc37eb3025da8597c28f08c9d3e44c34f204",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Components/FabulaBoundedStepper/FabulaBoundedStepper.swift",
+      "kind": "component",
+      "sha256": "ec3ee15effb82d0fcfdd1ea0da4f7938f3c71d413310debac6755c0c7b6815ba",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        114
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaCheckbox/FabulaCheckbox.swift",
+      "kind": "component",
+      "sha256": "558fb77642730b1775d0090f43060a764e190d0b49cca04f5d42ff426d646ba7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        279
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaConfirmationModifier/FabulaConfirmationModifier.swift",
+      "kind": "component",
+      "sha256": "1cfc1031caea04f5630f91ad81976bee3b43d2a1dc369c768ef340b8635f5617",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        110
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaDebouncedText/FabulaDebouncedText.swift",
+      "kind": "component",
+      "sha256": "dbca5901bb4842f6246df22f9dcc9b2d3d5b9ef672df3ce48a7e2f166b380348",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        282
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaDisclosureSection/FabulaDisclosureSection.swift",
+      "kind": "component",
+      "sha256": "264a311678c491432bfae6d7ac8f93a9ce42efa1d87c77e86f0512c81a5b2ea6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        59
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaFormSection/FabulaFormSection.swift",
+      "kind": "component",
+      "sha256": "81d57f7e7e9e15d9405164fc939aa91701bfebb8ba5534dd8f99b4b9d0489ef3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        121
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaMinimalProgress/FabulaMinimalProgress.swift",
+      "kind": "component",
+      "sha256": "a817a662a1893006433695dc01f3d3cac99623c49631dae7604ff645db27872b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        50
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaPickerRow/FabulaPickerRow.swift",
+      "kind": "component",
+      "sha256": "af677e2663d94ac62e467cc7dc650f358d9d84ef9b5bec82ef0e3059f2457175",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        55
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaPrivateTextField/FabulaPrivateTextField.swift",
+      "kind": "component",
+      "sha256": "bb24ebe7bcac6e892eb2760c2ff20f18a917143208ba6d45a6c4cce41cc7a91f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        99
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaRadioGroup/FabulaRadioGroup.swift",
+      "kind": "component",
+      "sha256": "fa34dc41ef6432297c7e84ab589cc85139bdaaa6154e50f42abb95a47529abd6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        265
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaRoundedTextFieldStyle/FabulaRoundedTextFieldStyle.swift",
+      "kind": "component",
+      "sha256": "a68967473b0d74df32ba213dbc3c347a7bf74736370efbc55b2927ec32dfddc3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        259
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaSecureEntryRow/FabulaSecureEntryRow.swift",
+      "kind": "component",
+      "sha256": "2e054c7bc2b014e1f36dd7114676aef82d06ebbcf671256286bcd1bbf5919f5f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        151
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaSelectionGrid/FabulaSelectionGrid.swift",
+      "kind": "component",
+      "sha256": "ebf2494e4106e333de15000001006d276816772dfac5b378395338e38e77a2cb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        131
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaShareLinkRow/FabulaShareLinkRow.swift",
+      "kind": "component",
+      "sha256": "eeb270075919322e863ddb63c74bbf02e8c4a7d0707e566da2c5127879196900",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        268
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaSubstringHighlighter/FabulaSubstringHighlighter.swift",
+      "kind": "component",
+      "sha256": "3caf7072eda7139080dd296ba180736681e97ce0f5f5fba88298079c35046eaa",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        281
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Components/FabulaSwitch/FabulaSwitch.swift",
+      "kind": "component",
+      "sha256": "387df0a2a5d554f12d10ca43eb3e4e65735a977dcb8cf2840ca57eeea6bd6ca4",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_ids": [
+        280
+      ],
+      "adaptation": "handcrafted_production_api"
+    },
+    {
+      "dist_path": "Examples/FabulaBoundedStepper/Example.swift",
+      "kind": "example",
+      "sha256": "4a1fcd38b6400fa316b0eff16a6bd0569c07cbb2f2967ca52a69c30cb106a488",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaCheckbox/Example.swift",
+      "kind": "example",
+      "sha256": "a48aa31d9545a3987bd5702eabc0303f43ac905b338cb70b0eb704841c0bdec8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaConfirmationModifier/Example.swift",
+      "kind": "example",
+      "sha256": "cb72efd5b5a7c5265adfba651f8ee122815e4dc3612c387e4fcaf80d658370c8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaDebouncedText/Example.swift",
+      "kind": "example",
+      "sha256": "d9c5977bfe2bb086fb1306edad8e91b8e4621284f7c3aa83a6e15b980a32c890",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaDisclosureSection/Example.swift",
+      "kind": "example",
+      "sha256": "e509ea7d396f2fd9427491637f0a55701bcebad6bbd149be9979a384581b16d7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaFormSection/Example.swift",
+      "kind": "example",
+      "sha256": "b1f4f288454116b9e91c07e1c0d8d9ac2cea66f873b4ace7c1e4da49b8985fc7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaMinimalProgress/Example.swift",
+      "kind": "example",
+      "sha256": "1eecf8d8735577a193bd0eb706c66b6007da6dfbf8f6a109d95efcedbbfab2d0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaPickerRow/Example.swift",
+      "kind": "example",
+      "sha256": "d5b024c088539ff7061a052c3953471f31b19ca07c265924bebbf1d0354b40f0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaPrivateTextField/Example.swift",
+      "kind": "example",
+      "sha256": "2958c1ab27b2bcf920b47bfc7faf21cfc03ccae3e961f3661e78c026a7475b74",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaRadioGroup/Example.swift",
+      "kind": "example",
+      "sha256": "5f34ebdb10244a5188b3203e188c8d353a5ea6d9dd1ba156ef74144e53f0fbf3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaRoundedTextFieldStyle/Example.swift",
+      "kind": "example",
+      "sha256": "3181404a6a3ea27024512e4ea928e850a67a5937bee148394e881062654aa6a0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaSecureEntryRow/Example.swift",
+      "kind": "example",
+      "sha256": "6d9714a403fee367bdb99f72b06ecede2e33f507db24edb0d782ebaa38e9ab1a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaSelectionGrid/Example.swift",
+      "kind": "example",
+      "sha256": "89db3e96314ae6e8c573836e69c85f30a53863b0feb205921d506db57eae793a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaShareLinkRow/Example.swift",
+      "kind": "example",
+      "sha256": "81f8ba86b6a6068c031995b55b82a0d157b2f2edeba4d930a2af6ce25f7b9efb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaSubstringHighlighter/Example.swift",
+      "kind": "example",
+      "sha256": "a17125e15ac90b4cf7eaf66d1fc8ed30ebc6498000d914f41ddc097f0c80278a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/FabulaSwitch/Example.swift",
+      "kind": "example",
+      "sha256": "c6c352601a9ea2c217821703b847ba860dc41ab10d563253af20e0c62165d1b5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev"
+    },
+    {
+      "dist_path": "Examples/P100_Dismiss/P100_Dismiss.swift",
+      "kind": "example",
+      "sha256": "9919c5057ca72346813463f202427a72d176bf88b4d4eaec6d23bd6fe6e006b7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 100,
+      "upstream_sha256": "3babacb1dd7fbbe376d0e03cc5b0800f1721040a489c1e19c5fce621ce6eda6f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P101_IsPresented/P101_IsPresented.swift",
+      "kind": "example",
+      "sha256": "822ee4b309823f3ae2843da7031be9e58c1a1e161635e79715c0debf8d99f4ae",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 101,
+      "upstream_sha256": "be7d879031c25d294348ea5e320562e805efa691448bd6f31d118a6ba6c66f74",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P104_Refresh/P104_Refresh.swift",
+      "kind": "example",
+      "sha256": "4e3e91353efe8533f93e333994cd5648c8cbf0be3fe821cd939d7b042af57a77",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 104,
+      "upstream_sha256": "4c299d88929b27e5c60f3ee38e76fd36ac1fe39d5f3b76499684f0bca2520803",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P105_ColorScheme/P105_ColorScheme.swift",
+      "kind": "example",
+      "sha256": "58ded9d524972c404869d9572ded47affb054d71c3561fc7b14f92d825f41631",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 105,
+      "upstream_sha256": "0db469206b40be00e3058c9424da7dd00576897493074846b339057686068f63",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P106_BackgroundMaterial/P106_BackgroundMaterial.swift",
+      "kind": "example",
+      "sha256": "c349167259d2113d13e0bd43755d38ab2db3684689330c1e8a19dddb26e831c8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 106,
+      "upstream_sha256": "3d909bd5f86c64c09d9ab94d94b999bca222a960024180a9144196e695d37d82",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P107_Toast/P107_Toast.swift",
+      "kind": "example",
+      "sha256": "8527d888e2fca82de148aaaaa612a7fb7614e934283e0550506b8a872f785dc8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 107,
+      "upstream_sha256": "0cf9705f8a6515e884e169cbcabfa14755516c491b412546c7620b7151a8113d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P108_ReverseMask/P108_ReverseMask.swift",
+      "kind": "example",
+      "sha256": "5699bd2e28ace3a770045aeeab110b0a5175d09a3fe9de3bc6364fa4fb6d1765",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 108,
+      "upstream_sha256": "4f4a07d5c5046b561fdef59e2f90f0b93949eb7e23abc7d8c8a5b92ef55b5ba8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P109_CustomStack/P109_CustomStack.swift",
+      "kind": "example",
+      "sha256": "b0b10962981fb04d0ff2b364d29f4e7987551e822e6d73407e0b3df6b542a057",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 109,
+      "upstream_sha256": "5dbe00d7e87271cb21e233e702de1b23bfb74733d02a05d6bc4ddf5c160136d6",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P10_CircleTypo/P10_CircleTypo.swift",
+      "kind": "example",
+      "sha256": "5afb7be72c31a2d7ba301ab7f1382b018aea7796f17e455a67bb93a4e80d220e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 10,
+      "upstream_sha256": "7117115bb908921a1796eb2d98deb8de5b69512a018a238cbe5965045623028b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P110_ConfirmationDialog/P110_ConfirmationDialog.swift",
+      "kind": "example",
+      "sha256": "78cc1ea39c728b667c7c3e887e4a4b8e069b29ace2c7045f33df8f703b267223",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 110,
+      "upstream_sha256": "c0144a21f97f9b02f7e023ecd01e6b21500580063aca15b8962a208718c65024",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P111_Sheet/P111_Sheet.swift",
+      "kind": "example",
+      "sha256": "6f5aedfbd48ed11544fafe638887c5f74d88d2e94056743757d36766d053081e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 111,
+      "upstream_sha256": "52513776ff5b096623a79bdc75b364aa7d9e0e3f6ef6f1dc8728e77426895563",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P113_Popover/P113_Popover.swift",
+      "kind": "example",
+      "sha256": "e8b2dcd6a44205010540ae877423396202e1aec4e2c3ff6c5a951d293cea47c3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 113,
+      "upstream_sha256": "39440e96c9881087a1374887bfdff3b0a54ca486983841dceb143e15496e11ce",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P114_Stepper/P114_Stepper.swift",
+      "kind": "example",
+      "sha256": "656bedddec6c2944d7473441c389df1aea88ae100a1c12425f97abdb26c41caf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 114,
+      "upstream_sha256": "a85d5cba2e7ec4292209363664120a6005f0c1ca1b9c51243c804aa1de8599dc",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P115_PrimitiveButtonStyle/P115_PrimitiveButtonStyle.swift",
+      "kind": "example",
+      "sha256": "33073d5b54cf68fcd4c4a56db0aa2687ca482056e6553a97a3feb7beef9a2825",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 115,
+      "upstream_sha256": "be1d76defd0fb2be19ddd62acefd86e49b047213531e00b047afa386d1bcb5c1",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P116_ToggleStyle/P116_ToggleStyle.swift",
+      "kind": "example",
+      "sha256": "b0855a6275cab4f7faed82d94136ef028a4b257c7f8101bca37b37d83e6648de",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 116,
+      "upstream_sha256": "8ef146646c31cb1d876f9f8dcb4ae20f04aaad3aa4bf3f142e9432079a700b66",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P118_CustomPopup/P118_CustomPopup.swift",
+      "kind": "example",
+      "sha256": "ac016ad7d236fbc64416b475d78b8a21ed92a5a98e06f1cf645489b5c7c4271b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 118,
+      "upstream_sha256": "96eb984fcaeacf7fd6e2ff2cef940cbe17b0c6ad364e478746d22504a82a2685",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P119_EquatableView/P119_EquatableView.swift",
+      "kind": "example",
+      "sha256": "75921533529dbb23797dbe0a9ec030c2e87fea9ee9dc4fdc4647169be97cd5b7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 119,
+      "upstream_sha256": "a3aa29dc3edfe43bcf940af2933a00b3497f50b775fb7526dbc0b2f2842fc941",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P11_AngularGradient/P11_AngularGradient.swift",
+      "kind": "example",
+      "sha256": "e0b3901abc9ca5bdd2f1f48825715ca7ecc5a7753b7ca1c747e2f31796726fcc",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 11,
+      "upstream_sha256": "3c457e5e2b9f6c3802388e27e969fdc49d83da3fcc586a68faefaf7f6f73a292",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P120_ExclusiveGesture/P120_ExclusiveGesture.swift",
+      "kind": "example",
+      "sha256": "83dfab1dd476004f0cb2fb78ebfe8f0adcc72d8aa4a7a5a909806f368f773211",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 120,
+      "upstream_sha256": "1ce88f33389ba279201cafd687ea1d455e77b94c48fcd5273bd0f64c334c6018",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P121_Form/P121_Form.swift",
+      "kind": "example",
+      "sha256": "c301cb43f2cc99eef5f901d09c7f121e0d9d1e5ae8332463a6d277aefe9949d3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 121,
+      "upstream_sha256": "ddde67c6e695da6b31da0ce7ca775cf000be19d75e2e7de7bea5be864304dc7d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P122_GeometryReader/P122_GeometryReader.swift",
+      "kind": "example",
+      "sha256": "25f086f1f821e6211ece4cb1dced1afc571cef8f17bc4fff612c07b96a4a88a3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 122,
+      "upstream_sha256": "2182f32a1a383c965d87d6f71a6b103c9ef2fa60579d0e3d40043ec7b0a25071",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P123_GestureMask/P123_GestureMask.swift",
+      "kind": "example",
+      "sha256": "0e4eabe114c7a5d113f9ee76a18f5c35e52324157b7565903247fef539160c66",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 123,
+      "upstream_sha256": "0d037a97188b60aed5dcfe8da0e4b937e2c3128eb0837e1c6753aa96208fc47b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P124_GestureState/P124_GestureState.swift",
+      "kind": "example",
+      "sha256": "5246baef85257ec6d94a1d5b67f9dc5c9d4062db555f83ada02f35fa0dfa5957",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 124,
+      "upstream_sha256": "65030dd70acd25ac9695ad9b6c15b09987344a481898d4a4bf303e6779391494",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P125_LinearGradient/P125_LinearGradient.swift",
+      "kind": "example",
+      "sha256": "57ce70d6e61c6590431a12d74afc3ca5be6016863a2683e4bac2eb56fbec0509",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 125,
+      "upstream_sha256": "72113325487dccf234853ce34ab2ccbebfe4f05b4c6225bfc6d434f97c27e403",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P126_RadialGradient/P126_RadialGradient.swift",
+      "kind": "example",
+      "sha256": "e9cfb85abb521a26907fe747646090890c6dca14d3b91d2de245343b385ece3d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 126,
+      "upstream_sha256": "3b5883e9bbb548b46b592a02fe3a2082ee208a62da1a8acb9c8879830461b407",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P127_Image/P127_Image.swift",
+      "kind": "example",
+      "sha256": "77f67457341e78f52061f261375b1d11aa6c624ac449868433aa89fb5f75bd42",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 127,
+      "upstream_sha256": "9e454ffc250973789dab2a75ddadcb35e0753636e7043357ee8080e2431d08a3",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P128_ImagePaint/P128_ImagePaint.swift",
+      "kind": "example",
+      "sha256": "3ded30485b6b68ff184759332992876b3b4a085008e777603339bd59210bcccf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 128,
+      "upstream_sha256": "45383d6c2abdeed1b963c2b2d0ab1d10e0cd7cf93c8d195a23aa190c7b88d239",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P129_LabelStyle/P129_LabelStyle.swift",
+      "kind": "example",
+      "sha256": "414e268599b4d4a82d260b6c5347c97699859667c80074c972410439c1de6352",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 129,
+      "upstream_sha256": "b371e69484d9163e23a43d53c0a010d2b86dd6c4b1ea4bcbc04b34e4a81885cb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P12_Timeface/P12_Timeface.swift",
+      "kind": "example",
+      "sha256": "1b024c6e4b9aae8b435300f6643e74470893ba883c0df5abbc16ad4026c35152",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 12,
+      "upstream_sha256": "6013d654ef7cc7549bd322a555ebeaa152ccfc8203db1d29b848c61ddc2da4fc",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P130_LazyHGrid/P130_LazyHGrid.swift",
+      "kind": "example",
+      "sha256": "02816e3bb71119f0a722f8bd8f0ca7e05e9bd5fc0a2fac23bde881838d34c5e6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 130,
+      "upstream_sha256": "26e0fd9cd721d0e5f8c1cce16b653bf732852ffddf47774640683c8611d655cc",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P131_LazyVGrid/P131_LazyVGrid.swift",
+      "kind": "example",
+      "sha256": "90f24b03ae835df2895fc529a62f1fb2ab04751e0a8ecbc517337bf5fe570068",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 131,
+      "upstream_sha256": "626cde1333113261489c98e33f486debadbbe9de4f49b939c2e5079fb11b1ce1",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P132_LazyHStack/P132_LazyHStack.swift",
+      "kind": "example",
+      "sha256": "259cfca393af1ba712cd453c32d166e7708d13fea0f9722cf143756308c34c08",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 132,
+      "upstream_sha256": "ec0c0728847869286db451c96f75e9d61e02ebe89e11a2cb613d84adc62db0bb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P133_LazyVStack/P133_LazyVStack.swift",
+      "kind": "example",
+      "sha256": "698aacb8c3edbc06adead99396e042a6bbb6c3a31cd7ff643e070e3d8fbc4a71",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 133,
+      "upstream_sha256": "b3c360340deb5358eb88dc6416944d9347f12e79cf782d2b53d6ff819fcdb017",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P134_List/P134_List.swift",
+      "kind": "example",
+      "sha256": "1b32a343700155953e2c3098756b84ae7f3ae2c8688e1eb4afa9800550acb3c2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 134,
+      "upstream_sha256": "27d6c5230f049c8f3bc6dafd8d6480e22c0694509d2a2e562a5af5dcf90f4ae8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P135_ListItemTint/P135_ListItemTint.swift",
+      "kind": "example",
+      "sha256": "bb778270b7cf2218e1dd5e6957f474ca8634e3dfe7f53dfd762704b7b54ba6ef",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 135,
+      "upstream_sha256": "7524ae53bb9cd1d5f32f02f077e0227d0e3d61b84359b90c30119b7329091fa8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P136_LongPressGesture/P136_LongPressGesture.swift",
+      "kind": "example",
+      "sha256": "f22ff472b4ec23f33c6de35e93651954906770f1c803b77f5e3289193913ceca",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 136,
+      "upstream_sha256": "dcf1cf2aa001a338497a87b1a4a03e5cbd0095a894e4a3b871fcce90590dfdc1",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P137_MagnificationGesture/P137_MagnificationGesture.swift",
+      "kind": "example",
+      "sha256": "3002e454be9fc18ccd73bb3e7384bf7ab22ab02913f6dff3b6b1fdaef8ff504f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 137,
+      "upstream_sha256": "d42621e4994567b1920f6e3fa11a5d459c78505a2a9954f535df0e02b6476028",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P138_NavigationLink/P138_NavigationLink.swift",
+      "kind": "example",
+      "sha256": "e593ee8e17aa123378884a6bb61c6ec9a6ae931477c9cfede7486ba2a3450745",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 138,
+      "upstream_sha256": "3958309f0454823d680f643d3a20ed3cf3237cb35dd83d913f6dc65c53e3b3e2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P139_ObservedObject/P139_ObservedObject.swift",
+      "kind": "example",
+      "sha256": "3aa495e0aafc637b0044b066d50dfc997ae124d6b464ab4ca5b827d356ff5f7a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 139,
+      "upstream_sha256": "482cb1cbd6c88cdb81d8b35092e7ab0c8c28b24bec8eae35a74cd5fb8c8ce245",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P13_SKScene/P13_SKScene.swift",
+      "kind": "example",
+      "sha256": "7214c7606674adc5b6a82d3188dc1dacdc70f6809801681e436180d9b3326aaf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 13,
+      "upstream_sha256": "3f99229d7c981cd162236400f5733bc30ee57a170613cba55103bdf9a7d4ba21",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P140_OffsetShape/P140_OffsetShape.swift",
+      "kind": "example",
+      "sha256": "b56eadce235feccd1ac00fb71685adf590ee7a293618f341cbe7caca84cf5e20",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 140,
+      "upstream_sha256": "674cb77af79fa3b7339c8389cde281b9b90bfa3e7232690c7a50f0a798a6b9fc",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P141_OutlineGroup/P141_OutlineGroup.swift",
+      "kind": "example",
+      "sha256": "66d3884ee17795cbf64d10fceb9ad84d1eb23191cb5dfac4906b3ee3dba792d9",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 141,
+      "upstream_sha256": "59046e44be03619df9ffc355235bd710f0c4be4cfafeb0e3473717c848f83864",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P142_PageIndexViewStyle/P142_PageIndexViewStyle.swift",
+      "kind": "example",
+      "sha256": "6f34f264a8a025a48f341bacb645fbf42efecaba855df7616aba5fdada1e5da6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 142,
+      "upstream_sha256": "e173e8ab808fe80befc84751a8c85243cb652b6716ec1de08fcbe4f425e95990",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P143_PinnedScrollableViews/P143_PinnedScrollableViews.swift",
+      "kind": "example",
+      "sha256": "582790caee8e5f90fd944bff3e62a24be1071b0edb92725aba47259ae9d9c806",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 143,
+      "upstream_sha256": "7d38fef7c0586bfb0f6cd82b8ffe8a989d773f06e0569ec71cf37060f374bd12",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P144_RotatedShape/P144_RotatedShape.swift",
+      "kind": "example",
+      "sha256": "f530ce560dfddff45ccbf57a06d48c87c90e1a394f51d69f8c97da3649ed5a0b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 144,
+      "upstream_sha256": "222c6adfe464949b98f21c3c5b5119a27ecb27fcc056e9c027c8ddf57ae47991",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P145_RotationGesture/P145_RotationGesture.swift",
+      "kind": "example",
+      "sha256": "251660b30e1609165067335dd87dc88059dfef2ed81b1d5ed3c0da9787f668f0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 145,
+      "upstream_sha256": "f753929bbff691a5961f1804724548dcde8d47da137e8c1b0d844117c7e430e3",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P146_ScaledShape/P146_ScaledShape.swift",
+      "kind": "example",
+      "sha256": "495c4a61be5456ba8e280ffe3019af7be2f1774a55098ed63f20d26420a6765e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 146,
+      "upstream_sha256": "e9642d37fa46cba90265885a7d2abded706bc5aa23c501ddb2187fde8655c6d1",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P148_ScrollView/P148_ScrollView.swift",
+      "kind": "example",
+      "sha256": "15b71a2835c77f78f844ccc4eed23ad2266bad4ee0259780c5c35981179b298c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 148,
+      "upstream_sha256": "acb0438f67ae6504f5fe8a93566babaa2076d055400601f10390745be9455e30",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P149_ScrollViewReader/P149_ScrollViewReader.swift",
+      "kind": "example",
+      "sha256": "219b60834a7e966ee34a4fc3163d36463b7cf6485dbe6fc6a001de12e585f81c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 149,
+      "upstream_sha256": "714b8fe031b2d0b72fb8855670a712a0710613b9a0964c13df6e77322d932f37",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P14_Umbrella/P14_Umbrella.swift",
+      "kind": "example",
+      "sha256": "4658f1e5681cf94cfc91dd8ac1c7149a78b2e78f6205223a7959392e0cf1322b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 14,
+      "upstream_sha256": "2b252118b2b29e2658aa30118ec5aed104af306c4de2337c997f1b3e3db56e2f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P150_Section/P150_Section.swift",
+      "kind": "example",
+      "sha256": "826d4d4b7939e07bb4113ab568f3b7c0ff57e1f56fb3cae2218ce6ddb702ae54",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 150,
+      "upstream_sha256": "3a09c8c9646d4651125187602f804dff3a4fd273a7c172126662a23aebc68e3b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P152_SequenceGesture/P152_SequenceGesture.swift",
+      "kind": "example",
+      "sha256": "a9817b73b36e73ccf11f759a2cdb08856fa07d9fc570964ea120dd897435df4d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 152,
+      "upstream_sha256": "70068128a6305d47c4f714a161295c969e534300b8b7c8773babd98f2eb1735c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P153_SimultaneousGesture/P153_SimultaneousGesture.swift",
+      "kind": "example",
+      "sha256": "ffab8ec13fb97f2147e6a28a3557c401cb67b13e8f1cbc09eacbc1d37a177135",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 153,
+      "upstream_sha256": "68270156ef74afd8b897e4334a520b7644f3c4b3e9da9cbcc1b5fc3e64196c25",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P154_Slider/P154_Slider.swift",
+      "kind": "example",
+      "sha256": "ba00d4d1f8ae716f9e4ce8e9838640858ff818637b871342917c1c64c49538b2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 154,
+      "upstream_sha256": "9974616cb91d7ec7b1e92a841449cacab122de818f9248c7eb1d213c376ea5ff",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P155_Spacer/P155_Spacer.swift",
+      "kind": "example",
+      "sha256": "53d2eb7cbd0202b2a4cededbf6f0bd89dfb6ffefb7b804e0b0ceb898759387c9",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 155,
+      "upstream_sha256": "283402691fcffddd2df775a6df252fa25a92d666f63f1e0dc1d092aaf40ef990",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P156_StateObject/P156_StateObject.swift",
+      "kind": "example",
+      "sha256": "5a560a5443270c16b86a33374849a39cc9dc289ad8671117b25cdd21d591e19f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 156,
+      "upstream_sha256": "63d56d2ee301ffe30f5204ff033cb693458cc808a187daad76037017fa9141cd",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P157_StrokeStyle/P157_StrokeStyle.swift",
+      "kind": "example",
+      "sha256": "4b00ab0167f6257e6ded9d419692b05e777e7ea8ba5f604beb334c7d6a13737b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 157,
+      "upstream_sha256": "a5fbb922a9e14f9ff994b1926a1ae7a7a680a6630a6cb63711a29f34c61a3349",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P158_SubscriptionView/P158_SubscriptionView.swift",
+      "kind": "example",
+      "sha256": "e09ece946df4d332c4b4b906fcc25c69c4e17df2bfcfc83def367ecff7685648",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 158,
+      "upstream_sha256": "1b67a06a9adb70b330e6479771be58fd3af6d86e084a647da1ac11c773a1922c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P159_TapGesture/P159_TapGesture.swift",
+      "kind": "example",
+      "sha256": "fb5e87aa0dafd2ea60fa54b9311af9b2729ed3179eedcff9aa8ebe0971dbe456",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 159,
+      "upstream_sha256": "21cf41a29d963937c60d03996ced6a3a06ba4b02448669e177aa464120e6eeab",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P15_3DBoxTypo/P15_3DBoxTypo.swift",
+      "kind": "example",
+      "sha256": "576d43e8b9e2eb56cff64f511c1ae332fe82e6a24308baeaa69137fc62f55ba1",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 15,
+      "upstream_sha256": "94d3cd6dc7a0f4f2465b77c1da88d1a270b8f45325a5cd68e64335cdc19b25b4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P160_Text/P160_Text.swift",
+      "kind": "example",
+      "sha256": "230f1463385b88c351890e3326869da405d49f1b3cfb78ef79e382f9509d6ff1",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 160,
+      "upstream_sha256": "983a9488473a769f35bb5cf39095c3dd19394a7a33c47668e0b3b647732a76fb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P161_Namespace/P161_Namespace.swift",
+      "kind": "example",
+      "sha256": "f04021933aa82d7e5eac0f0645d011e8f76222a4f2dd413caca677078370090f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 161,
+      "upstream_sha256": "aa5cae399abfbe0cf62ca3b6b682f2ae272f6aab563092eb7ffd3b3e4d5b0837",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P162_ScreenTransition/P162_ScreenTransition.swift",
+      "kind": "example",
+      "sha256": "0e9834905a7683e1af3f3d95b3867b3db651c2a513923fc90cec18dd0fb7f960",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 162,
+      "upstream_sha256": "40cf84a0235677d4c812737a8626fdd577d6ec2447180b8d7d72fa25bc0ade3f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P163_TimingCurve/P163_TimingCurve.swift",
+      "kind": "example",
+      "sha256": "b1fc420907d9165410396ce96b9658fb9131efeb7ef676575846d32b4ac4cded",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 163,
+      "upstream_sha256": "7f1dd1970227211301192612f1d0226f837993fbcd595b3e5cb975798bdeba86",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P164_Transition/P164_Transition.swift",
+      "kind": "example",
+      "sha256": "a4b9b3ea6715455545691d61d83c9ceb416f7d87b942fd46391b56258fcadd9e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 164,
+      "upstream_sha256": "a0b3302a17369170a5a7bc0ef869cba7228343a30dc46ec305c6c839547809b8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P165_AnimatablePair/P165_AnimatablePair.swift",
+      "kind": "example",
+      "sha256": "77b439bb0d7594e9b2cf19f7ea2fc47d95b5d9727d7841b6fab5ce7872ac3d03",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 165,
+      "upstream_sha256": "fdbc4b6e079b0c9602628cd7866860c6aceaad58b908c44fa401b62ef931d241",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P166_TextEditor/P166_TextEditor.swift",
+      "kind": "example",
+      "sha256": "b7f65fdcd5f115493fdc2f1e038ec3762129da9dd5d33b570270a02cc4375b5a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 166,
+      "upstream_sha256": "5a746b936d084f5b953ba5fa95d826b26e40e2ad7014f1cba0a179502748bf97",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P167_ToolBar/P167_ToolBar.swift",
+      "kind": "example",
+      "sha256": "ba7b92d958be16154b6e40b7b1c957cca88b63ca581ab8cc4f3aa9462a635f40",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 167,
+      "upstream_sha256": "1258b187230d92ae5384df2c05384b17e37a4d5dd05dbf6dfb3e9d720715590c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P168_TransformedShape/P168_TransformedShape.swift",
+      "kind": "example",
+      "sha256": "cce68c5841b67661693cf746a20ad0c86d6101ce856c474f666897ed73f887c6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 168,
+      "upstream_sha256": "2cecf39acfb3ec9182aac8e4340bff1e11d2e8de43f0c7df7803814a60c1d0d8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P169_TupleView/P169_TupleView.swift",
+      "kind": "example",
+      "sha256": "7d2ff19cea845694fc18acb68d88e05f83e44b48dd1d94c3bb1358fd0bd67b2e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 169,
+      "upstream_sha256": "81fa46fed828b54c3f08f347083341645e1ba7d7d4a9349d72e83d79f09327c9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P16_CMMotionManager/P16_CMMotionManager.swift",
+      "kind": "example",
+      "sha256": "8e680c95e6221a684f2ee09360c217efe39cd4831be3596ec7c01f27f4e717f0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 16,
+      "upstream_sha256": "d631f85381596ae8cc8e898c8a236fb2db8c54bfba545ea85858802e7e057bc2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P170_ViewBuilder/P170_ViewBuilder.swift",
+      "kind": "example",
+      "sha256": "a847573c801f8ee9e301b38c6ed2f54fdac036697f8b3132b94a17d8e66d3b17",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 170,
+      "upstream_sha256": "f368f9abb55f73017b2643d6b699fafbd33a84d276dbd8329c4f3a2da35084dd",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P171_CircleAnimation/P171_CircleAnimation.swift",
+      "kind": "example",
+      "sha256": "d29b3d6bb539b366f588bdc8184d7818ddeed4405802387e5307e6c3caee1101",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 171,
+      "upstream_sha256": "264123ab0572921505dfafb2f8496090b437c1bea6f9772c202d622058706bb8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P172_Rotation3DEffect/P172_Rotation3DEffect.swift",
+      "kind": "example",
+      "sha256": "6a48059aa6b5805efac47b26fd593f9bbe8c917d8beb90ea4e74ffc1070c925a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 172,
+      "upstream_sha256": "470dd4defc65fc8e159bbc5c2c29e0046a36ada474af62a81d39c5804dd31246",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P173_RectangularGraph/P173_RectangularGraph.swift",
+      "kind": "example",
+      "sha256": "c7a70efef5741a35a03b145ba67752a215fcfb37fe484a828bafd15a779f7d31",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 173,
+      "upstream_sha256": "e95b49442999a96857e6ca63368b8d8d3ce76c14b9d897369fd4a1ae53e5ac97",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P174_CustomStepper/P174_CustomStepper.swift",
+      "kind": "example",
+      "sha256": "b32c9cdf8ea67b8130d760216a968bfd2f381c161f1196526e1b492a2d7f2249",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 174,
+      "upstream_sha256": "f1afe4d11e8613f35a6ca39397de8d559abac4bb9c72c1e450ac322ecbe2634e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P175_DragUpdating/P175_DragUpdating.swift",
+      "kind": "example",
+      "sha256": "5227ac11fed2786105a74b3d06b31489de4110fa31139c85c64349fe14d305ce",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 175,
+      "upstream_sha256": "a098aa6fbf4f0ae8c6be8de70b11d9ec5668197da6422ba0a94d39751c25a88b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P176_TabSegmentedView/P176_TabSegmentedView.swift",
+      "kind": "example",
+      "sha256": "bf12cb97c77a8e05e525c8a49f0e97398ae3903092ec25d0fdf166f91d0669c3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 176,
+      "upstream_sha256": "aa94d1c7c6130e6d83478822a50f31e792160cd14260b41e121aebd8b195947e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P177_CustomEnvironment/P177_CustomEnvironment.swift",
+      "kind": "example",
+      "sha256": "9703945ee9dee7d25154a22e0f1d4bec8e4e157c7494456a1a865ddfde108581",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 177,
+      "upstream_sha256": "ed03b791f598b15c009b856ccb07881f4f01f554eda7c9dee0b0cb3a708f803d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P178_CustomViewModifier/P178_CustomViewModifier.swift",
+      "kind": "example",
+      "sha256": "e9b1e9d78d62567e8ebfb47d0e42ab15f9c13868e865ed867349979cb21bcbcf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 178,
+      "upstream_sha256": "b376b199c63a63a1c3b946a3c0946997968cb5ae38d9aa09538e834860d8acd5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P179_FoldUnfold/P179_FoldUnfold.swift",
+      "kind": "example",
+      "sha256": "ffe43a09de93846db74048fdf50f075951b9b8f3eac55eb9c19e082586035a29",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 179,
+      "upstream_sha256": "3314ce05470b06374390ba4316cc4dcbab8318a4978b5da1ebf1b4934e6b2cea",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P17_Pyramid/P17_Pyramid.swift",
+      "kind": "example",
+      "sha256": "3cb1e80a0b2e7de4abf41f2bc0fa4cc99762f2f0458430a050555aaf09f09981",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 17,
+      "upstream_sha256": "f0b37f56a05b919b1a88b8207729dfcd2a75bb2e8dde00ca9fab9b183f8daa27",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P180_FoldPaper/P180_FoldPaper.swift",
+      "kind": "example",
+      "sha256": "99cbf07684df0b2e8d9138e7d2bd1c62d1b305473f3cd8865df81c0e7be1a706",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 180,
+      "upstream_sha256": "adc37311b4cf538f6a9cdf8d5fa28e81b213bc5a47696254423315c6a1e4a32c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P181_ScrollOffset/P181_ScrollOffset.swift",
+      "kind": "example",
+      "sha256": "18bea12196b955a097f615b75516d83dd956734f9e729393ed83b7a3fc086189",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 181,
+      "upstream_sha256": "99194322b618d4990978642f89d0144e355834e1b1012991cbb55cda793a9870",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P184_CustomIndicator/P184_CustomIndicator.swift",
+      "kind": "example",
+      "sha256": "d623f90103a1696b775488990c9d0986aca0179f20b373145c156bd933e426e6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 184,
+      "upstream_sha256": "a417dd9b5d7dde6ac4093a0f9a69e9cccc658fd2b5984b9b0a3cda7337385d0b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P185_CircleAlignment/P185_CircleAlignment.swift",
+      "kind": "example",
+      "sha256": "0e0798fe2f8f94e6445c761369d44c355355aa29f8769efd042ee62183c68359",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 185,
+      "upstream_sha256": "e38929f93b8c212e6ebf373ebec4ba15ecf3763cd0a84264d8d4c87692326b09",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P186_RotateGesture/P186_RotateGesture.swift",
+      "kind": "example",
+      "sha256": "8940caee38b5f71ff1e6604545a025fd93656a88a69d09068e837cb960d9ed37",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 186,
+      "upstream_sha256": "8c4b77f687acd6283e2b189f2cac105841dd8baf54efc2b90e8de8680c1ce24c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P187_HierarchyTree/P187_HierarchyTree.swift",
+      "kind": "example",
+      "sha256": "05b1fdb138c5250f686d89e42888ec51683b101b427060b939b541e842a130e2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 187,
+      "upstream_sha256": "2ae660ea72c1f5dd7218e948cef7cee10ad92d897db395e64767660c3be07369",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P188_LineAnimation/P188_LineAnimation.swift",
+      "kind": "example",
+      "sha256": "6761175dd6dbd40e84caf1ea73b084e408866d709bae661561fc6b4262884818",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 188,
+      "upstream_sha256": "811b2ebd3f45dd1622a2212b9b4d003cc81e6f8a540f1031ef605776598532f9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P189_RadialTree/P189_RadialTree.swift",
+      "kind": "example",
+      "sha256": "122ffcfdd48dd041eff66360020224a81151edf0de0f568df6c9dc19613e1752",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 189,
+      "upstream_sha256": "aa3e73aa99857c94960ecb720d9f1870ff2b9d94774aee8f5e1d5d98d2e3a074",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P18_InvertedPyramid/P18_InvertedPyramid.swift",
+      "kind": "example",
+      "sha256": "c058bcbadda210296b386b8e45f3a9650f2f9b6ea884ba50b5299753814d9557",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 18,
+      "upstream_sha256": "48ac379898d65b28179917b43c5e207defcb9d8cb2c8712915ef7e7b571bced9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P190_GlassShape/P190_GlassShape.swift",
+      "kind": "example",
+      "sha256": "98399eff6d2491e3f4041ecd4762121ca6fe22f047b0be23b9fad27de16e66ac",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 190,
+      "upstream_sha256": "de9a0cbef406927b83d921ab13088e45f2deb95b8864bcfabb9ebb2170cde13f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P191_FractalPattern/P191_FractalPattern.swift",
+      "kind": "example",
+      "sha256": "5aeda6bb88f42a3babf019f7ee95f41dbfcda4f0373653aa4831c2f1a5646ad6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 191,
+      "upstream_sha256": "4f354d565316f654e78a318386fa19ea7b5767551d38184c71a373df88804365",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P192_FractalBasic/P192_FractalBasic.swift",
+      "kind": "example",
+      "sha256": "aa8a07cfdc06c934578f0c6f395f8ec58eb531c7cea9e7c3de0dd30b2f6892b1",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 192,
+      "upstream_sha256": "338bbe3dc3789421c6f1262c90f964395deac099cbfd032761215673ec476229",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P193_FractalMaker/P193_FractalMaker.swift",
+      "kind": "example",
+      "sha256": "1cfaedca1e1b80e482b5f2d6815793af2d6df2ee774cb4a6827e0e5020b7f762",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 193,
+      "upstream_sha256": "572dd252e86e331fbf83b9329713a7d46e3b812eca52634430f597387da74b41",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P194_CurveLine/P194_CurveLine.swift",
+      "kind": "example",
+      "sha256": "a51922dea6b6bdc9e0f222686770456c3823c1836ad419e2e8e26cca71f9e0f6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 194,
+      "upstream_sha256": "0c6d96d3e99c0bf4ac454803f40618f78065ddcc19c5f40c809bc606a8e3c404",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P195_BoundsPreferenceKey/P195_BoundsPreferenceKey.swift",
+      "kind": "example",
+      "sha256": "51dc386334602f4f84284407037b1a2ffe874f36c4c79a1b3b83776b0abebf9c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 195,
+      "upstream_sha256": "ee4ac85c7b3e170897d12b0b70c1295203f2fd31cfb2ef69358124beee4db2c4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P196_TextPreferenceKey/P196_TextPreferenceKey.swift",
+      "kind": "example",
+      "sha256": "40049bed94d33cebc75b97241c9cb8c0b18bc7488aee1aa562d08192564079c5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 196,
+      "upstream_sha256": "8751d127241727c47e2169b632ae6b8a89eda1a6ee001253e1f6482f37481e1f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P197_ListPreferenceKey/P197_ListPreferenceKey.swift",
+      "kind": "example",
+      "sha256": "02f5f228ead96771d4f97d7c60a9f4d26a2df891f2000bb4572a31c28dc8209c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 197,
+      "upstream_sha256": "d724c5969e3bd1d0baf140526c572185c34033fb1a67bab04ff9b119d12b423a",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P198_PolygonShape/P198_PolygonShape.swift",
+      "kind": "example",
+      "sha256": "700ac7439f4a6633b72ddc706c72ea1f293e0fccda2d6b6c384f72bbfe7e3597",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 198,
+      "upstream_sha256": "7f0fb6a38c47b30db31be025337bc916a4408b42b89feeacfee4138f7a2e708d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P199_CustomFontSize/P199_CustomFontSize.swift",
+      "kind": "example",
+      "sha256": "05db577e459f5cfe494b7b2b3f1b0764923de4d1987aa529818e55e131289acb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 199,
+      "upstream_sha256": "c03d1e2fd3e1e4219787580f05f8110d312445f462ad1c2530084081ca6eb5c7",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P19_TextWaveProgress/P19_TextWaveProgress.swift",
+      "kind": "example",
+      "sha256": "ffe7a9437a795b1124bb0533415c19444239c4178ea4f3b1d2b5bc91c48aee73",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 19,
+      "upstream_sha256": "09c5e216bf9e6a7df17bfcbb750a48a0d0372106535418c1de25802edca39a46",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P1_Timer/P1_Timer.swift",
+      "kind": "example",
+      "sha256": "012d529a82481e04cc92510eabab58b544b82c889185a31182ab23799cabf881",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 1,
+      "upstream_sha256": "6dad2a9f9aa8c1d72d9e5764bd6f53afb8927f73d84c56a2537186424a90f98d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P200_DynamicTypeSize/P200_DynamicTypeSize.swift",
+      "kind": "example",
+      "sha256": "adbcce8d06e83ba1382de35c54d4f152592f48c37641542080f48b07be3b882d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 200,
+      "upstream_sha256": "bcf7b7e3839840b0286574fea1749df0aa78e175837dc354cfb534f58c5f6a54",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P204_ButtonRole/P204_ButtonRole.swift",
+      "kind": "example",
+      "sha256": "969d83cd6ba4e4124551a87c2c6c049d93d6b56c1d0683ff7f246db007e98114",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 204,
+      "upstream_sha256": "36fbabcfb17803c9db70d9bae61b01006cbe0e5f1580a7beace1973187c9103e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P205_ButtonStyle/P205_ButtonStyle.swift",
+      "kind": "example",
+      "sha256": "3b94ca95880f42b69debb210ca58b44b0c9a7c93df156384eaa5cb4a0a30433e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 205,
+      "upstream_sha256": "d32af0c596f235e69e2ef38dcc87105fc178951b506c400dc3ff06780182c4f7",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P206_ButtonTint/P206_ButtonTint.swift",
+      "kind": "example",
+      "sha256": "9cb509dab626e7c5feca5f366fdce87dfdb3ba8d69d5c52ffbe653cda7fb6cdc",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 206,
+      "upstream_sha256": "d4cc6170e403f97b7c3c90a2f91395a833b26bc50377e621426567cf1ebf00b3",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P207_ButtonControlSize/P207_ButtonControlSize.swift",
+      "kind": "example",
+      "sha256": "6e668f7395a2cc5c32cd38abb42e9e0288ee4feaa769099ccf199f0f9ef7ffeb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 207,
+      "upstream_sha256": "bc6eda557cd9f0802c3f19a44d01f9cbcfa54011da3191d70a002a37047dc3dd",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P208_ButtonBorderShape/P208_ButtonBorderShape.swift",
+      "kind": "example",
+      "sha256": "e0a2b6bf86578140556398b4f7636e6f2f8b283b5a4b6cf9674235bb26a2d1ab",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 208,
+      "upstream_sha256": "f903779a9d1b1bda9ef87e4620c3ecce525ed9c0b41a8b5515d638ba45a09dcf",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P209_ControlSize/P209_ControlSize.swift",
+      "kind": "example",
+      "sha256": "abf49ff4129f644bc1779f524fdb5e3c316c8bf6a55909d521976bd6380d2c3f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 209,
+      "upstream_sha256": "0109f23c89b3919377d1bc80b9e2868432de299135847ee45c19010737fe34ca",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P20_CircularProgress/P20_CircularProgress.swift",
+      "kind": "example",
+      "sha256": "358ee08cddea4ca9b1279b40b618a336c36c5b621fad30f3714247489055739a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 20,
+      "upstream_sha256": "39ffa94915cf6de2cfc3bc0cc2a8869bebedf72775fc4aab9de71ca6682ee568",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P210_ZoomModifier/P210_ZoomModifier.swift",
+      "kind": "example",
+      "sha256": "ab02f3ac357a7b7a29156b4bae8238cfde15ab35a0e77b1ee18c80478cb3716f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 210,
+      "upstream_sha256": "687b2e5ea20db30ef5d1ee16b80d10d0ff6e5f3cbe47fd969f639415e40ef112",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P211_FrameModifier/P211_FrameModifier.swift",
+      "kind": "example",
+      "sha256": "3aa97e18d0ca848aabe8de9966569f82e8e5a9a68ef297377975317f8303c599",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 211,
+      "upstream_sha256": "f2235849dd96c9136872bc4a16b2dcadfdb48abbf436e21a8e4f48a3a5065a7a",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P212_SizeModifier/P212_SizeModifier.swift",
+      "kind": "example",
+      "sha256": "dbe73712701e485f162d66d294f76bd0292c8153fcf38d476aacd75cf6a1ea4e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 212,
+      "upstream_sha256": "7f830ac97636262e6daf63efb8fc8cc06d6981c2158bd83e8fedcfcde9a2327c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P214_TextFieldClear/P214_TextFieldClear.swift",
+      "kind": "example",
+      "sha256": "9346bb65dc241d98e49231141925d81c47d820d250c161bb19ce50abe0b534ef",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 214,
+      "upstream_sha256": "a5e880bc6129021886f927e9f7f92dc5c29337bba7723bc498078ffb381c1157",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P216_CombineBasic/P216_CombineBasic.swift",
+      "kind": "example",
+      "sha256": "c432f9174945a683d9827a4484dc1c6e7fdd35b8cca5d46e4611dcde69ad7b77",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 216,
+      "upstream_sha256": "e088f26d8ea9aed50131f9df81f899e4cf19221b922d5ba3d602c57694bc264d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P217_Publisher/P217_Publisher.swift",
+      "kind": "example",
+      "sha256": "17bc83adf5106ee052a27bdf8b6891111ed152520c2b4d9d9baf3b8c4c4eb40d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 217,
+      "upstream_sha256": "74b977a31bde94decdb3231a4b1f6870c4f52be27eae89df99d18427ea834faa",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P218_CustomSubscriber/P218_CustomSubscriber.swift",
+      "kind": "example",
+      "sha256": "071fc9ba977824796964c8129d00df59b8ece575e76b19cc22f811f05f091763",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 218,
+      "upstream_sha256": "5932a4ae86b61003195843d8056df3128fef68a8a2ef3195a7c0bcf8e7c74873",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P219_PassthroughSubject/P219_PassthroughSubject.swift",
+      "kind": "example",
+      "sha256": "728cf375bde028c2d51158ade5a91d20392b3040f97d3e86278c07bec9e6baa9",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 219,
+      "upstream_sha256": "448a722e1942810d78abbb8ecfb8960d770e5205d3fb1052109697b3403e9db0",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P21_RadioButtonGroup/P21_RadioButtonGroup.swift",
+      "kind": "example",
+      "sha256": "2b57009d2da28e99fe25c6f1e9bc292287801f9a6a44023e36dfb69306df1240",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 21,
+      "upstream_sha256": "59e42b65129befd35b7d1558225c982ef75a939446782341eb6bb1f53ddaad13",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P220_CurrentValueSubject/P220_CurrentValueSubject.swift",
+      "kind": "example",
+      "sha256": "71945d59fdbca73ca1488a9419f9cbbee2bf269e65648cb1a4ef376a26a568f1",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 220,
+      "upstream_sha256": "0e3b2ccd4c698c2406baa6d02d7858ec6c89ab5b448e3254d580a158cee5aff6",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P22_ToggleStyle/P22_ToggleStyle.swift",
+      "kind": "example",
+      "sha256": "cefae2fadbc16ddd77cb409fc142748d0b6b32344894eb0dc97fdc8201d95c39",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 22,
+      "upstream_sha256": "64defa790e53bc9a27168b5dbce0ae21593f09778fb1784c538dac8be1551ed4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P235_TipsforusingTabView/P235_TipsforusingTabView.swift",
+      "kind": "example",
+      "sha256": "fda349a634e04a781e1f88adf893ba0e8048c90ee6bcb1e1e4e2be9327859209",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 235,
+      "upstream_sha256": "3cee95a4191748c24592ace86b5fabcfb476fde328e6850afcb5fb196093520e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P237_InitialStateVariables/P237_InitialStateVariables.swift",
+      "kind": "example",
+      "sha256": "db1611ff9bef99a110966d94bcac75f2a7730ee755804fcc314e301ac74b2f22",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 237,
+      "upstream_sha256": "8b9c8f2404143d651344e1f183d673e045e001b768ade7582fa538d038284b45",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P238_LimitCharacters/P238_LimitCharacters.swift",
+      "kind": "example",
+      "sha256": "e0602721b183668e7e9784dcc1e469e55f06477dbb38be33d4a68f0c3e253280",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 238,
+      "upstream_sha256": "f7734bf98b2a54796d49e7dfc3cda0e0948c7d688287221a2d09f5c6635ce60b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P239_DynamicTextEditor/P239_DynamicTextEditor.swift",
+      "kind": "example",
+      "sha256": "c0072d42fd27857855b3a06e31d25bf3d491a2974ae224ea09594ab8e4cba6f2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 239,
+      "upstream_sha256": "b206ff865f23692abcaee1eb15dc00e82b0ef42dbec618c866e5a46cd0243ef1",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P23_Waves/P23_Waves.swift",
+      "kind": "example",
+      "sha256": "9132bcc72bf2554efd743d4d90b569385e172ac9411c5e385cbae6372bfc49ea",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 23,
+      "upstream_sha256": "dfc15bea914cce5000e84cb1e95435f258ca7d7e2c8722ad55af23b2d4d200cc",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P240_DisableAnimations/P240_DisableAnimations.swift",
+      "kind": "example",
+      "sha256": "c77332222f45eff3d4036a23641cb1b5a30b8123a7c75a64c130c292ab1ce33c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 240,
+      "upstream_sha256": "e3eb1d4215d741d0fffcaa199ed543915db131fc44113d5b88eaa575f8e2dbcd",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P243_Shake/P243_Shake.swift",
+      "kind": "example",
+      "sha256": "893717891925eb19aaa3f1a45d1862a43e517cab528ae6c82bb063b44a0ac0ce",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 243,
+      "upstream_sha256": "06af277e2dfa59ad7f4754f022aead5ea994ca11f24ac750abef821bd16524f5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P244_TextEditor/P244_TextEditor.swift",
+      "kind": "example",
+      "sha256": "817e9b511dcb6da7addc39c130df6b82035c774d9a7944d8856e01c60faf723a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 244,
+      "upstream_sha256": "d26d620b0b5cb118c606098877555bac629f4a304cff115e808ac8813b26cb9a",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P245_Mirror/P245_Mirror.swift",
+      "kind": "example",
+      "sha256": "2f2aa97e5207a1e286677e5b54fbba5230445b292a846236594e4169c5ebd51d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 245,
+      "upstream_sha256": "dc7f7d6a0937f0589c9b27f1d58cb6a3869597a87f5e743e11eb3d738ea9bd75",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P246_LineInfographic/P246_LineInfographic.swift",
+      "kind": "example",
+      "sha256": "45aa7d4f35a52bcc939571564dceccf23a4c384be96d67639369835ce6844bb3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 246,
+      "upstream_sha256": "7610e3969ca8d8e54218bb93475fe76c9129e5eabb15cba460412b8c6de77828",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P248_AlignmentID/P248_AlignmentID.swift",
+      "kind": "example",
+      "sha256": "c1944c7e0ab692037c3a516f778546be7f61e3cd6cd66c3f02122e9d5354dd03",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 248,
+      "upstream_sha256": "c19ec72352265a5ecfac9ac8535fdcbfc74becb99bad1a5df58c3ac14249edce",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P249_DynamicProperty/P249_DynamicProperty.swift",
+      "kind": "example",
+      "sha256": "d9c4e225391377fad741072efc2bb571155a3962188dc94cf1e3946c82997d81",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 249,
+      "upstream_sha256": "ac2402454d5eac1c278f6ef8cacdece814bed4b22f92e26a70357850b59af9f7",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P24_LikeButton/P24_LikeButton.swift",
+      "kind": "example",
+      "sha256": "55e23cc22679934d0156c6ea568ea4744d53faa2985c47e78e14bd1d8f81d083",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 24,
+      "upstream_sha256": "98409fd0282ae56df5cad88007465a91eb7ed7410cd6211b918acde3fb9ada47",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P250_DynamicViewContent/P250_DynamicViewContent.swift",
+      "kind": "example",
+      "sha256": "2a90f1d288c320074b25a8ecec2fb54f5238a7d0c0dbf85dc9436e6ce39a7b51",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 250,
+      "upstream_sha256": "e05bf88cb46e00a6ddabb356d065d2a18358b5f856be0c57d9f71750839dc882",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P252_EnvironmentalModifier/P252_EnvironmentalModifier.swift",
+      "kind": "example",
+      "sha256": "d1e7c39647094c7f64805ec70fbf5f3fb59d79199ed4aeb5012548f96c04a99e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 252,
+      "upstream_sha256": "a3989bd76de7b1de0b8ea9474551db7cdfdbaef3c49e28720ad9d713bad0df9c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P253_FocusedValueKey/P253_FocusedValueKey.swift",
+      "kind": "example",
+      "sha256": "a3ada79452adf52be0d4cab56855db651c633f836776dc18e4ef18c88d012f3b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 253,
+      "upstream_sha256": "f691deeb9e60fd1e13c2137ce81a719bdb0fe5b4311ad1cc5bf9a83b903c7375",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P254_GeometryEffect/P254_GeometryEffect.swift",
+      "kind": "example",
+      "sha256": "ccb59c021a6cd12a06cf8a61cd7b4ff5bf98d901b063b4f33c720f82c770b2ca",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 254,
+      "upstream_sha256": "beba474b5ec59de6f9cc25d370eac7b9d8287fa1210b8c3062aa2e124c819750",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P255_DoubleClick/P255_DoubleClick.swift",
+      "kind": "example",
+      "sha256": "2e8565067f14a4a3e862f4c19086349c8c07e8c587713e1f5749005684e6380f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 255,
+      "upstream_sha256": "b65f1d7a4f3e939c648d2396cece9d69e35aa33d3602c784b7070cad275248ae",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P256_Conscious/P256_Conscious.swift",
+      "kind": "example",
+      "sha256": "a02d86fcc5a873f842412dfb9f240fb6445a2eafec87955d94aea6adcd767430",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 256,
+      "upstream_sha256": "2828fa3904f51ba066f18700e479d4c4c807b78fab9b213132d2e5c86c267ff0",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P257_InsettableShape/P257_InsettableShape.swift",
+      "kind": "example",
+      "sha256": "f6dc27938238578cd9e5402ebceda67858ea8b6924d85b95f4f6995bd91286a5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 257,
+      "upstream_sha256": "9e12294bdd02eb10efdbe59534d743f2537b70ad5c5537e9c45b8c070108ab19",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P259_TextFieldStyle/P259_TextFieldStyle.swift",
+      "kind": "example",
+      "sha256": "c0fc207a9fbb24bdc8d3d4f0b83db312c7a9e4dc9bebb470879cc5654691d8a4",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 259,
+      "upstream_sha256": "ae4f3d3b364c8a6edc393a350e2b4301916f6f4cb6d536d22bc26025bd32f825",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P25_CurveLineControl/P25_CurveLineControl.swift",
+      "kind": "example",
+      "sha256": "07840d82b70635bcf4dc5639f43df543be3245251ec1d2dd6adfca6dc01e61ec",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 25,
+      "upstream_sha256": "e93a284a901bcd5ed4cc3faad23ad01cf4d1cec9a597b5f4ef65ab209f971614",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P260_PickerStyle/P260_PickerStyle.swift",
+      "kind": "example",
+      "sha256": "4744091527fbc646065c4abb1ed11e7f6a434703c5e004d550026de01850604d",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 260,
+      "upstream_sha256": "a998c1e1f3e265148ef993c1d68fa6fd27428206a4b19bacd03d602f54004660",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P262_BarGraph/P262_BarGraph.swift",
+      "kind": "example",
+      "sha256": "48e308e6d0f8e38d298e1dd7dbe61d3bb6f342af48675105ce9deedb98e9bed5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 262,
+      "upstream_sha256": "50f67395104eb5265f572958249fad24d589b97c1ddf1e460970248d45e24df9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P263_NavigationBar/P263_NavigationBar.swift",
+      "kind": "example",
+      "sha256": "ce06b17f2b5526e3c30533b75208ea7fbd7981b91fd53d09dc5d3b1151fa3561",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 263,
+      "upstream_sha256": "2d05fa879d0d68424144cfdda3deae535aaba3e73343b7ba3628545d48caf340",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P264_DynamicFontSize/P264_DynamicFontSize.swift",
+      "kind": "example",
+      "sha256": "2e887df92ea40330fa6604a13f184f3b4d7a5a6c976064ec6d21c253904113a2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 264,
+      "upstream_sha256": "b212ea65e02c858b1194993d421648bbb307e14e83ef3aee195187db7c710b32",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P265_RadioComponent/P265_RadioComponent.swift",
+      "kind": "example",
+      "sha256": "9e2d74cbcfabb8a0ace6260927dde87c786e49b6b54103779a354548c072e4d2",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 265,
+      "upstream_sha256": "c2fc6b172c45e63eb943d5f00691c30219406cef99630cdd00bdf0c3696fa793",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P266_ViscosityCanvas/P266_ViscosityCanvas.swift",
+      "kind": "example",
+      "sha256": "88d00ff8a6039e9022018d0ead4d3411320a04d6de0f6d68d7c86af2b3522a67",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 266,
+      "upstream_sha256": "ee1f9da89ba9416c15219a6a48178d4656a97529b9885a4c907abbb639484480",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P267_LazyGridView/P267_LazyGridView.swift",
+      "kind": "example",
+      "sha256": "04b18e7c7e99a2bc7275357c156782dc23ba6442365e03d5775fb5615639c090",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 267,
+      "upstream_sha256": "f63ed14df42812cfb583b8f080a555215bf30b02f3cd72b03c3dc570b2a7acb2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P26_QuadCurveLineControl/P26_QuadCurveLineControl.swift",
+      "kind": "example",
+      "sha256": "6c388fb67137f66be10e72e8b3c2724cee992cbc9f87a8b79dd4d16afb04fad4",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 26,
+      "upstream_sha256": "44c59688350f19ced1f5adbd04903518b5987bb0bc31d150551aac83f2834081",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P270_HueColorPicker/P270_HueColorPicker.swift",
+      "kind": "example",
+      "sha256": "d1b7bc412c7fa6072281e2cba87460da4b5ff68764d752ee4985992f83ea8816",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 270,
+      "upstream_sha256": "3b10a6c463c0c7a6f861c5feb53c7924ebc375a633ad17dfbdc9e5b8e5dcbda5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P271_CollapsibleText/P271_CollapsibleText.swift",
+      "kind": "example",
+      "sha256": "8b2e8e28947e0861b54c9c1f82ef5b12b0feab0951fa5c8491c143ef82aef0da",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 271,
+      "upstream_sha256": "5860745661707edc18726ed300d37af460feeed1b5064b22963fff7437f13ebb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P272_CollapsibleView/P272_CollapsibleView.swift",
+      "kind": "example",
+      "sha256": "420b96d61a3c15fb7aa7a952d3fdfacb9428fba097f1d5d239b21480985ae1bf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 272,
+      "upstream_sha256": "b80b3fd22089f6c5740af4735b4e878b66229f1f8f0a298e1d60f777d7cdad89",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P273_ShapeGenerator/P273_ShapeGenerator.swift",
+      "kind": "example",
+      "sha256": "ddbf430fb10901f8faa2cd5e2546cf64d9b8b8556c7508a0a947e2eeb4b7adac",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 273,
+      "upstream_sha256": "2f35067a57f891d6b240fa3f5d2f16aa1628c9893b6f7656b52d9f4c27b82f67",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P274_RaindropShape/P274_RaindropShape.swift",
+      "kind": "example",
+      "sha256": "e7f90eddbe393b88940bd11756da994f738b5204665958d82a2d8fb7031ffdd5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 274,
+      "upstream_sha256": "c3d215ef0897e9cba46f33a3286d82f76842cc0be051ba0318c953b2c30b7ade",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P275_Raining/P275_Raining.swift",
+      "kind": "example",
+      "sha256": "f966c1b8c7851867bac9f502c9a25ec15c934581acda65aec637cf9fcfdcdc3c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 275,
+      "upstream_sha256": "8d9fbf1cd62c34d3179cfeea0801fb866b5ca049f27f03ed27b81d74a7829016",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P276_ImageSlider/P276_ImageSlider.swift",
+      "kind": "example",
+      "sha256": "5dfb61a42f0dbb0695ccdfc0f494d3c9969389be6033899adab4ced601fc8fba",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 276,
+      "upstream_sha256": "a9762f283a35a6886f8b716e85f34942fe6a92599bf5ce0124f4a7a6766c48c2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P277_DragandResize/P277_DragandResize.swift",
+      "kind": "example",
+      "sha256": "f048a3107a16027213e4855bad625a4f9a84e94c75a48c102de77d4c6ad51ac0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 277,
+      "upstream_sha256": "5d632d18842e2cbcd7bc81e44f13decf58da4933e511471e918cddf1cfff8dc9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P278_RotatingPlayingCard/P278_RotatingPlayingCard.swift",
+      "kind": "example",
+      "sha256": "b529637e9ed348e1df82589bc7d87b836b6818ee5be8ca573bf7cf3a62167936",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 278,
+      "upstream_sha256": "4768701e3a308599764daa001f197be3ff518702492afe9cbadd5240282ad7d9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P279_CheckboxComponent/P279_CheckboxComponent.swift",
+      "kind": "example",
+      "sha256": "2c3a0b7708422b978ab18710739e6e47b74e32d3caa3611a2f18f36e47278660",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 279,
+      "upstream_sha256": "21002f1c120967b3cf94dfa404b185306a30a63af9ad42e1879e76e84dea5684",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P27_SpringAnimation/P27_SpringAnimation.swift",
+      "kind": "example",
+      "sha256": "b26bdb0aefbf347b8d3f8b5dd482747af3671815b1c2a5e9755cf7033c18817e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 27,
+      "upstream_sha256": "bba80f4bc06bdb66a4a6b59c04c157ef76f8a29a947a823132dd8c8d66c75bed",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P280_SwitchComponent/P280_SwitchComponent.swift",
+      "kind": "example",
+      "sha256": "f305b66b95185339806d59eb4d75656d8c15571426630f2e1682b73519ce31cf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 280,
+      "upstream_sha256": "3c383217dfbaee92b342b18db9d150ee786264346df8c649c4bc20d93ff87209",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P281_SubstringHighlighter/P281_SubstringHighlighter.swift",
+      "kind": "example",
+      "sha256": "26f259520e46c8ec437f877e7fc2ce0e6c35f20ea67089b39e55086d3ff41a97",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 281,
+      "upstream_sha256": "29428f5eca0ac668304c56f482c60cb2fcbdc7d58728f189c174cf905d895fbe",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P282_DebounceText/P282_DebounceText.swift",
+      "kind": "example",
+      "sha256": "a4321de2cf6f77d903302a57251a368e548f9e16d653a48b7c1507fafc8530b5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 282,
+      "upstream_sha256": "b2a54ee804782e8309d1b97a90ba5cb2e24bd8698dd74febe2f58ac498f5af74",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P283_CatchCat/P283_CatchCat.swift",
+      "kind": "example",
+      "sha256": "6e0c57f6c9311c2f5bede0230cb428da1354183009f32089c1d2e197cb917604",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 283,
+      "upstream_sha256": "f0718856ff0ee1006d2160e0d9be5f99f1712fb4e60a4edddadc8ddb8638aa76",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P284_GlitchEffect/P284_GlitchEffect.swift",
+      "kind": "example",
+      "sha256": "77251ba0dfa2a0b9c57713a29d1f0e4f5dc483836ddd587b1e7f3d49f90d15c3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 284,
+      "upstream_sha256": "0efc200c39259d6f8c863e0bf050cdca45529227c54a575afcca9872a72795be",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P285_FinancialCard/P285_FinancialCard.swift",
+      "kind": "example",
+      "sha256": "e993f25fba98623336e2bc6f8f6ade559914d82f17f832bb0d28905aac327b59",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 285,
+      "upstream_sha256": "25170928fdb1a248e4cdf669f445c43de2decebf0cb48e241d2f6e24faf228e4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P286_ParallaxPoster/P286_ParallaxPoster.swift",
+      "kind": "example",
+      "sha256": "6b895de3fcfbd1e26c7ff77ccd2a4ecc771fa2154ca7c6378f10323eb7dacfd3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 286,
+      "upstream_sha256": "225a4d4e87f28729ed701787576e0d095d15c45262c7cb613b763a4b5095a233",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P28_StrokeDashPhase/P28_StrokeDashPhase.swift",
+      "kind": "example",
+      "sha256": "8c0ec596f6b955a3f9da52a129b72adaccb86198631ca48267ea0733ed2d228b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 28,
+      "upstream_sha256": "18cc87fe22b369766b4c6b1af13173bf43a35bf4b6c9140f0bf3d67918944962",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P29_ShowAlert/P29_ShowAlert.swift",
+      "kind": "example",
+      "sha256": "4f3fbee35a9e05a7134d207bbcbedeb174cb49529773cd46554e2240813776f5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 29,
+      "upstream_sha256": "9c4cf2fa938f3e9292fe327d1bf3f46c85a150e5fc75fa7e5031acc4287c7920",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P2_Drag3D/P2_Drag3D.swift",
+      "kind": "example",
+      "sha256": "f0ea8ffa7b2619bd51742305a71d8f8b21534134a7e9b56188d9051cee6bfe98",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 2,
+      "upstream_sha256": "af62aae789864d4c7691a3962ea009a79e2b458c4e97df729e7c47fbe032e277",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P30_ShowMultipleAlerts/P30_ShowMultipleAlerts.swift",
+      "kind": "example",
+      "sha256": "fbe9e5c11e5afaee07dd89e501c9dd8aa3823c9023534dcb718d2f5af1eb99fa",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 30,
+      "upstream_sha256": "9d217992815afb22d2e111b7682ed63022f7984b63b177bf66823dd40144b49c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P31_StaticText/P31_StaticText.swift",
+      "kind": "example",
+      "sha256": "2e5873d64ca65f893db3b2ee7f2de20a939acb877296803bf588912358bdbf52",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 31,
+      "upstream_sha256": "9b60bf39344072dce4705469ed1fbbe3c75ee2c32755ab4b7e027ca5e54ae6a5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P32_TextAlignment/P32_TextAlignment.swift",
+      "kind": "example",
+      "sha256": "5ce5f349f6709c6b24be4635e5a74f43b8f97d2a8506040b43756b2d3940199e",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 32,
+      "upstream_sha256": "bdb7d8fbacdf75690a4bb1aaaaebce54f61613ae3112bdbc6070b02ea9f6a480",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P33_TextFormat/P33_TextFormat.swift",
+      "kind": "example",
+      "sha256": "47586215277757c0eee9faeab6e2e67f067d5ead680c4d5b5ec962528475dd82",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 33,
+      "upstream_sha256": "396f392cb0c94a179eec466409dc6618b8070e4af844b5ea244359d71c30f9d0",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P34_TextSpacing/P34_TextSpacing.swift",
+      "kind": "example",
+      "sha256": "c08b5ff3b0fa53dfadff8c46644f600c9f9f334fda0d8da4d381d0c8d86f1840",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 34,
+      "upstream_sha256": "0e3ce456578c92bf7315478aa22a1cb43bbbb99ebd5f8930f188838f53f9b303",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P35_Label/P35_Label.swift",
+      "kind": "example",
+      "sha256": "4abb0cfe4731c587a516dc75d699bffdfdf531e08cd2c03fcbf3b9c51fc3644c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 35,
+      "upstream_sha256": "3dcee04832ed30e37b44b9877e72a7207a1058c2e5f88be805b8673f05c19928",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P36_WithAnimation/P36_WithAnimation.swift",
+      "kind": "example",
+      "sha256": "1b0ba973ec388228cb4e1e99e753199ec7f673b9549bb1eb34560e3306bdf20f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 36,
+      "upstream_sha256": "043f5353fa26c7f7230a71a5dd58d62a50d9fae1935331be7cfdb721fc04a5f3",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P37_ShakeEffect/P37_ShakeEffect.swift",
+      "kind": "example",
+      "sha256": "7340c8e65115700855a8b07b854dacf034ae52e38421b9a6994713cbd2205579",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 37,
+      "upstream_sha256": "86530beaa5958422ca3d7e6d332d8bdee8552dd07b4298dcacaec4d09024df22",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P38_ActionSheet/P38_ActionSheet.swift",
+      "kind": "example",
+      "sha256": "a26cb214f993a99996b6e58c5e3f970057cc1bd9d1bd3beb0f81b70cfc201ce8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 38,
+      "upstream_sha256": "fed8c5442e2b60308caa061caf3ec36eed44ac8bb74f44d501bd963aea361d32",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P39_ZStack/P39_ZStack.swift",
+      "kind": "example",
+      "sha256": "4fef4ce515a806c60bd657d258ddffeb2141d01822c0f1ea48e7c62043cef054",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 39,
+      "upstream_sha256": "5f857b55d873e20c68b80091d6ead4c6a080a6da0949dc2747e63cdca5c1ec98",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P3_FlaredRounded/P3_FlaredRounded.swift",
+      "kind": "example",
+      "sha256": "cc26de7435fbfc9ceeec08119192172c29852aa9907c43e1ed8765e0a1821991",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 3,
+      "upstream_sha256": "5ab7298aeb26e3a947cdc74ffc9d83409bf32d13ae02da265d01bdbfe56f7c5f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P40_VStack/P40_VStack.swift",
+      "kind": "example",
+      "sha256": "03cb9a5abc45db2553fea31292136068f55e7000cb225b694d486359617ec93a",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 40,
+      "upstream_sha256": "052c2a44642cd028bf5bdd8c8cf1c2d4524e3729f3003f00b2f79dd103dc173d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P41_HStack/P41_HStack.swift",
+      "kind": "example",
+      "sha256": "f5211ea0fbef9b8fee7bd7565619282ac756d7c28223f2e31e05df9b8bc623c0",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 41,
+      "upstream_sha256": "0914422a2b1ac9fe80474ea62041f4bb57f2e708324955d22fc35e7e4b74a9bf",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P42_Degrees/P42_Degrees.swift",
+      "kind": "example",
+      "sha256": "edc095287dec1dca280f1878d2dd03810ebb018bff9b3368a9ed47c36de9358c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 42,
+      "upstream_sha256": "63093ca9fd3e572b4121e967486fb914c6e63d1fc2af4ee17454115229382f1f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P43_TimelineView/P43_TimelineView.swift",
+      "kind": "example",
+      "sha256": "c0ac62245ebe9a770323953e0eaa0d99d51d616b2a8bf605fcb038924fc9a2a9",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 43,
+      "upstream_sha256": "4860d33cb3fabe9de60c468a2749b7361190767a8c1a0c951e7346a4a2623064",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P45_BackgroundStyle/P45_BackgroundStyle.swift",
+      "kind": "example",
+      "sha256": "74a7a555e328f028087046f08e3a2189d4b2a1a579e0dce226324e1a09738e36",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 45,
+      "upstream_sha256": "a977518b655e84e16d558aec316050b52e9a04a73fe1c04f2d6af48f71527eaa",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P46_Menu/P46_Menu.swift",
+      "kind": "example",
+      "sha256": "b1b83fd8bb7a17af448f7a74a8bde5c612023c035264d6029488170fbc05f4ae",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 46,
+      "upstream_sha256": "641d41884d059dca3629df6ff752d26a088c6d172e5b3e6b786e74d71c7c99fb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P47_ButtonStyle/P47_ButtonStyle.swift",
+      "kind": "example",
+      "sha256": "e33c4be9559a2d9747393bff607973dbcc334a7909d4825ef41e0b7dda044ec8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 47,
+      "upstream_sha256": "094e649c3822dbb3f5860f7b9bb2eb592c9c6ad01baec3612d166c28760640c8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P48_Joystick/P48_Joystick.swift",
+      "kind": "example",
+      "sha256": "e84e33dcbdd616c1496998e1c5e791bc5f20d5496ef1be88173bc51b78314f80",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 48,
+      "upstream_sha256": "fa1a53431735028a411d1d57e1667f9bd289b0891aa151c3b72919cb18210e91",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P49_ButtonStyleConfiguration/P49_ButtonStyleConfiguration.swift",
+      "kind": "example",
+      "sha256": "3b3919864ca88b17068a4cef1b51f70245019cb415ed860c45885a5990dafa48",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 49,
+      "upstream_sha256": "bce53a209e6ef45f630f67bc55fb442c45d9033f6746957fea3d3c4749aaa659",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P4_FlaredCircle/P4_FlaredCircle.swift",
+      "kind": "example",
+      "sha256": "557ef9c30da1684bded7ede64a6d319a36bbc6f1f9b082f29cc51a69648e96a6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 4,
+      "upstream_sha256": "57441d79f18c42dc9e28247b4c06be18f8016e04ead4508633f5f75a15fd4035",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P50_ProgressView/P50_ProgressView.swift",
+      "kind": "example",
+      "sha256": "cc7f00a1d63a2193d331a8fa8bc3e1f70cf99bdad3a054a1253d2daea75817ed",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 50,
+      "upstream_sha256": "ae60f11bb4e88da57561cdc4f71d4e10a33b03c59141068265de878c9fadd010",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P51_ColorPicker/P51_ColorPicker.swift",
+      "kind": "example",
+      "sha256": "fcc7791e96d0ac55ca2aff7d40615a0f3ede8d5aa719d9f86404f9b25581a632",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 51,
+      "upstream_sha256": "f4a4ba60252760ff88c0951be53b0012532e16306afa2dcb9a1cab123c400f58",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P52_DatePickerStyle/P52_DatePickerStyle.swift",
+      "kind": "example",
+      "sha256": "f715c52001684499c8e08f33d192c9a209395b5b4d3050f645877e06aea5f96c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 52,
+      "upstream_sha256": "51d3f4be9149eed441cb9000002a060b0f5c1590e88f1f719efca4679c978ec7",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P53_ContextMenu/P53_ContextMenu.swift",
+      "kind": "example",
+      "sha256": "ff30e0c64d762f87dc0e398d02ae12c7094b14d5ae824ef8d78ac20363ef7846",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 53,
+      "upstream_sha256": "449c3dab735f5d9455e22d1b09367224c38508227e2757c1a355b9840e94c12f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P54_GroupBox/P54_GroupBox.swift",
+      "kind": "example",
+      "sha256": "137770db3f06f553b8ca20ae7e163adf15b6fba9a3a74d010fc56a89d4d2b433",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 54,
+      "upstream_sha256": "b97466b011191f628c19d4ef9badfd8e18361914c43aef6f3721e1f79dae0948",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P55_Picker/P55_Picker.swift",
+      "kind": "example",
+      "sha256": "6e8f048d7b8cb855699bc078791fa31f435fb7b6470e9d0522e74ecad86fd107",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 55,
+      "upstream_sha256": "ef29142fa7fc390fdcdc066f9ab1761d641e1af7478ec61837d147e7c0ae2821",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P56_TabView/P56_TabView.swift",
+      "kind": "example",
+      "sha256": "5893659ea71113e2ec3c1caa6ce7dd43bed9d3675a8c299ebf2691c3e66e1ef8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 56,
+      "upstream_sha256": "69a380977e5189e3e944da585ba734edd20cac7384a10fb943faa214bcf72b51",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P57_TextField/P57_TextField.swift",
+      "kind": "example",
+      "sha256": "bf8f787f85d890bff9bff945c829eb367e6c3ffd63d7362f63487174ea409ecf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 57,
+      "upstream_sha256": "081aed1cc138fd5db74407c27f5c58f08ca9a9e4571501f117b04f6ed702b6fb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P58_Toggle/P58_Toggle.swift",
+      "kind": "example",
+      "sha256": "3ee769d6f7daac592897e4d1167af48873d0f4d264bbb6d032bcde28a09a34bb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 58,
+      "upstream_sha256": "78a5893bc7dd5a4a5b7480fd339f7746a2b6494a768dac9109921fc09bc2c734",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P59_DisclosureGroup/P59_DisclosureGroup.swift",
+      "kind": "example",
+      "sha256": "74ea24a48d734d0d31bfd93af2bddf54fda30207d70facb143bae864dd5effa4",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 59,
+      "upstream_sha256": "08b41b33a8ca39c9ab25d8a8fc7f800d1f301f3601ad852de518073aa6e5ae9e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P5_FlaredCapsule/P5_FlaredCapsule.swift",
+      "kind": "example",
+      "sha256": "34457b3c0d8ca950438793c2121761f26a1b525fad0f2ebcc3152100f7483f7b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 5,
+      "upstream_sha256": "3f28240068ada86219c745ba5043f57cd51c5df43d1c4f277be6d418ed7a9fe5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P60_Divider/P60_Divider.swift",
+      "kind": "example",
+      "sha256": "4bab6c03055d664131dfb1473113d9021e03eb74f51fcf5f6f653d707cd7566f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 60,
+      "upstream_sha256": "9aaec795ecc069f389c5850163497f329a1b3493aaecfa3071930590833b21d5",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P61_DragGesture/P61_DragGesture.swift",
+      "kind": "example",
+      "sha256": "643cfedd625d3a3a6485f6fe32b5494505395cf7f2284c6049477f21f8bb8bf5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 61,
+      "upstream_sha256": "f949378613c0c6fc3b3fb6c00bf20a3203edf6fe1945216680d4ac40aca6439a",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P62_DropDelegate/P62_DropDelegate.swift",
+      "kind": "example",
+      "sha256": "5edafe64e049357df7ba5a094187db95f65fe97d6e81f41099ff4516261ba4e6",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 62,
+      "upstream_sha256": "265864c869114564b4a90bd447686ee13029209a77299be2395d2dfdec0dc1fb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P63_EditButton/P63_EditButton.swift",
+      "kind": "example",
+      "sha256": "ab125fdd644c7fd308c7d7b375081499be5a4db02fa049e18df58ef80a05b789",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 63,
+      "upstream_sha256": "bf875f1b1f1a25a97de491050c45a6ab1de94219e771aec66c83e5dc479c54ef",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P64_EmptyModifier/P64_EmptyModifier.swift",
+      "kind": "example",
+      "sha256": "809b311e2441394e4a10f20467a03a1e7c98a928996515556cbfbafbca6fd2f3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 64,
+      "upstream_sha256": "ec2004448c6905b3e87b333439d74f0545b75d02585b65bf35c8866156aa0d7c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P65_EmptyView/P65_EmptyView.swift",
+      "kind": "example",
+      "sha256": "92ece3e5a67313edeb8126d518244b8a2ee697f7ecf56bd2f276aa8b6e247376",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 65,
+      "upstream_sha256": "4735c5b23c715078bc6316277576294b48d2571efc076b59b64cac648cf250fa",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P66_EnvironmentValues/P66_EnvironmentValues.swift",
+      "kind": "example",
+      "sha256": "9b5e7b2fe44f681181dcf4f933e1f8ca234b83751280748c132a69e83a26db84",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 66,
+      "upstream_sha256": "4a7c09498569602b5ee9f85e817d9542cf48d18adb771b7b656d01de5b40080a",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P67_ControlSize/P67_ControlSize.swift",
+      "kind": "example",
+      "sha256": "f68004e109e1c654d4433f24861976a254015b115ab874a42934d32656d9f8ba",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 67,
+      "upstream_sha256": "d34fc8b56f162956ea887fe68550cedbe0e3dc26db2665c89ee5edd1b849bc5e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P68_ControlActiveState/P68_ControlActiveState.swift",
+      "kind": "example",
+      "sha256": "0aaf55528d168b798100994045ca0de0df4976870c3bd72c187110d2ddae8ffd",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 68,
+      "upstream_sha256": "7fb38659fc1991f16273d823fe646af63a79bd9e945bd9c4f88617a00779fe24",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P69_IsFocused/P69_IsFocused.swift",
+      "kind": "example",
+      "sha256": "daf79a203003e26034f63b4abeda1007b1f726dbb6f43044f387cc5e4306a67b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 69,
+      "upstream_sha256": "ede1d9773c9f1d676fc47caca6d58e9b1a5ccf21a8bf7bb58e510e75e1a553c6",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P6_FlaredEllipse/P6_FlaredEllipse.swift",
+      "kind": "example",
+      "sha256": "83ddc16128a760c02fabf3f3527be46a7d300cd58bd096d5d59ccfd9057ef695",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 6,
+      "upstream_sha256": "4a7bc0d74712a8a71c623e4aba66f1a05b31391a78711695d2167e676fe3b2a2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P70_IsEnabled/P70_IsEnabled.swift",
+      "kind": "example",
+      "sha256": "0bb87e5d40a48073bc7f131da6d1c63d161f6d791613857e87ee327c4a0bad46",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 70,
+      "upstream_sha256": "4cd201232606675d1760887327aed92bd48cad347a2a8b1803ec9d8652507a78",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P71_Calendar/P71_Calendar.swift",
+      "kind": "example",
+      "sha256": "6379af8c785e8bb1146a8802a9580e71537998cc75c72ca817caff26cd5a3f5f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 71,
+      "upstream_sha256": "ff0fa6ab8c3493913f4c0003851de1de92eb5ffdcd46d3afd99303ea3ecd976d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P72_RedactionReasons/P72_RedactionReasons.swift",
+      "kind": "example",
+      "sha256": "013c922f45788fa19bc2062c4f6e21706a53c4b1b725111387293f7e85a34c9f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 72,
+      "upstream_sha256": "dffeaf12ef9d14473d777791b8852b7552db740114c04a3c4f9d94e709f53fad",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P73_DynamicTypeSize/P73_DynamicTypeSize.swift",
+      "kind": "example",
+      "sha256": "ebf740fb2df1c4d23e9226b77de3bd44c675deb06974d92b362f770d713e98cf",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 73,
+      "upstream_sha256": "632138cda572dd67c471dbfdf4c27de19aa138838e3c25b70114c391336aa240",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P74_DisplayScale/P74_DisplayScale.swift",
+      "kind": "example",
+      "sha256": "2fb185ed14c68a4efdf37b1ab1175c7d695fddd542e690c9da9aa6e94bc9a2a8",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 74,
+      "upstream_sha256": "1e81f6dec50a2e1faa7941293cf1d715be16ec88c523af500b84ecf588ec508c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P75_SizeClass/P75_SizeClass.swift",
+      "kind": "example",
+      "sha256": "468fd7e2a17f44e1afff86b82498b073eb134ee39818b787d0ad9caa0eb7e41b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 75,
+      "upstream_sha256": "8fff7d921203a5a5c0914b9e66d5ec600979d393b19e18bc650255db41cc9b5e",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P76_LayoutDirection/P76_LayoutDirection.swift",
+      "kind": "example",
+      "sha256": "cd1a406e4b0f86f16e5d3f976b303aa3366308371951359067d06bb3e46a2277",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 76,
+      "upstream_sha256": "89526935d8f6bd47406c269f6eeb28f371efe15c4e6b8f2bdbbd9e1f3b09bdc8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P77_Locale/P77_Locale.swift",
+      "kind": "example",
+      "sha256": "f83c4b97d860d7a3b9e0e30c923d67604dc176e4910e4ebc12f2e5bb8b03155b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 77,
+      "upstream_sha256": "bfcac476d4e07e831921df41691d07c6ac151cde222ff68181d26db6137481fb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P78_PixelLength/P78_PixelLength.swift",
+      "kind": "example",
+      "sha256": "6dedd245fd5587a146004c8186dade8dcb0d476137fcf094bc1016891fdcf1d9",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 78,
+      "upstream_sha256": "246c4b9acc8654881dbc9c9f393ba84bcb14d6edd71deaf45250c186ae59d0f0",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P79_TimeZone/P79_TimeZone.swift",
+      "kind": "example",
+      "sha256": "1b70c857dc7e76811789129efa9096ae9fa31a09ed2866b3bc115780b89fd64f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 79,
+      "upstream_sha256": "3b0ef7c1379ea131e59f13adf04346123f3ff3ca1295800c623b9b9bc987c24f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P7_GuideLineModifier/P7_GuideLineModifier.swift",
+      "kind": "example",
+      "sha256": "2f093c6a53b5e09d1ecdf5548603f97bd6c04366e6605c95cfc8e6089e400b6f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 7,
+      "upstream_sha256": "2aa72e3bf063462d5058d9b7d6f83f5add2dfa349a1c3c7a8d045f4ef8e5412b",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P80_DefaultMinListRowHeight/P80_DefaultMinListRowHeight.swift",
+      "kind": "example",
+      "sha256": "aa177920d226b70c7518023604117e526b507bf0ced72f4a9b6006596d662413",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 80,
+      "upstream_sha256": "7a9d8a434438ed47afcd874d9168b874a8a9a6536207e58efa58bbff6ec58a10",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P81_DefaultMinListHeaderHeight/P81_DefaultMinListHeaderHeight.swift",
+      "kind": "example",
+      "sha256": "f01ccb522c04cd88b3d8d29237b03916f99721fa37bb1cabf50a9a853676df61",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 81,
+      "upstream_sha256": "c728579d7285194eb819ea9ea0471f19fd585a74634ab597f971f5d9627d9d21",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P82_EditMode/P82_EditMode.swift",
+      "kind": "example",
+      "sha256": "f0341a102882513e335789270da7b61b41b9b2368f6c9d234b532892ba7d86d4",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 82,
+      "upstream_sha256": "f32d6a9bdf6bb240c1907ca9679fb4eff8b5863e00623fb054d8f27e77eb897f",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P83_HeaderProminence/P83_HeaderProminence.swift",
+      "kind": "example",
+      "sha256": "256c89618982f999283cbd0c86c3443c91703c6877c948b37116b1d388917739",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 83,
+      "upstream_sha256": "3d1ba79f334abc0ff46a57a4edcb42b4825d63c4d7aff68629dac6babd7ded5d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P84_ImageScale/P84_ImageScale.swift",
+      "kind": "example",
+      "sha256": "a64f49c2112bc308d5b64dca653b01a54c886cb93f6172d42bece2ed7342ad1f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 84,
+      "upstream_sha256": "ae25f3d58e771741822c27b3b607416d1f46aa55a8552236d6b5168232de47a2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P85_SymbolVariants/P85_SymbolVariants.swift",
+      "kind": "example",
+      "sha256": "4ad1f24c06599ed5ad8264fb92f64f6b69f5e8336bb624538fe00faa112fa3a5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 85,
+      "upstream_sha256": "0cbf31cb548c5f6fdb2fc1d45628fdf76935a2672025371ee2b0543aa70f9167",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P86_SymbolRenderingMode/P86_SymbolRenderingMode.swift",
+      "kind": "example",
+      "sha256": "0c9002a15ba8c09c2c83f01f272e1356d49f578aa9a3dec574457b15eb351467",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 86,
+      "upstream_sha256": "29d046742f2f54871f6fd0eb5d0378543b50e20b8698060cd620f0f78128d9d2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P87_IsSearching/P87_IsSearching.swift",
+      "kind": "example",
+      "sha256": "47569881468e8831d6f5d4be28da6c69d73a9d937eb7029f316e7dee82167fa3",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 87,
+      "upstream_sha256": "be6829af53119fe5f84460b104d2f8d017efa4ecb0d17c0a79458c13864a3549",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P88_DismissSearch/P88_DismissSearch.swift",
+      "kind": "example",
+      "sha256": "64c5385675306a1553f8df5d1a615904fad45c9132db9894797ca797f39c54ad",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 88,
+      "upstream_sha256": "a6164a66e9b8037d2766140287adb9dac5ed1513e5a32b81b3cc3dac86b2242d",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P89_KeyboardShortcut/P89_KeyboardShortcut.swift",
+      "kind": "example",
+      "sha256": "5ef22b7c114c0b4f599c74b1096c8e0bd50760686343d5b18915ae9f665df3cb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 89,
+      "upstream_sha256": "3c8a18b41fb4abeb462e160c6e2720bb27161b08bbbb809101884aed4e5738f9",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P8_BottomSheet/P8_BottomSheet.swift",
+      "kind": "example",
+      "sha256": "b29faef8a14e94bf64d8927b7330343c771e1bf5c6933e40f2feba1b5392fa56",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 8,
+      "upstream_sha256": "7e1a97da29f8f7084c1091a4bd9a399417ee229c02338d80e6e684e3ee1c5bd4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P90_Font/P90_Font.swift",
+      "kind": "example",
+      "sha256": "a48c8e41a0e7f85c1b3cb18722d527c1e410e3e85e86a78663db04d964a1971c",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 90,
+      "upstream_sha256": "02b298b47a605f2b7864a71ced9abba1365e1190888cc5e4cdf6057fc8f3baec",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P91_LegibilityWeight/P91_LegibilityWeight.swift",
+      "kind": "example",
+      "sha256": "7ee954fe90e984bd0463f682cc680832022e8314355af59b22068c616ed513dd",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 91,
+      "upstream_sha256": "5086ca70f061d973a240c69fbe0c1a095de0cff4239440bbdcc79b7ff464e017",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P92_MultilineTextAlignment/P92_MultilineTextAlignment.swift",
+      "kind": "example",
+      "sha256": "120c6dcfc6c1c71b54aafc1a3f4f9b080816ac92e914a16435aa64dd9fe90a0b",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 92,
+      "upstream_sha256": "59df50ff7b036b0fa1513525c0bd26afaae059acabb529813508ec460141f3f4",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P93_TruncationMode/P93_TruncationMode.swift",
+      "kind": "example",
+      "sha256": "8f387805254ee2ea9cefae93a5ac333a63365a22b1e0bfdf8be69b56318289c1",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 93,
+      "upstream_sha256": "ae293fa2ee940b9f7c9f0d8cb16529ea7a602af69e10eb1c131bf3b0db0a27e3",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P94_LineSpacing/P94_LineSpacing.swift",
+      "kind": "example",
+      "sha256": "cc445efb6b29e08d925300687f6c2e0b37da2546412955f16e83422391435b27",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 94,
+      "upstream_sha256": "03a6844f852b37501d38c735e09fb3ec1daa317ec6d5026171861c6a52a546b8",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P95_AllowsTightening/P95_AllowsTightening.swift",
+      "kind": "example",
+      "sha256": "4201afd45b4db3cdbaf0eb6debe71be6f064e2f863672533981511db41f5e17f",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 95,
+      "upstream_sha256": "dbf5575fa9749d2005fed21736d76b747c6d63362c163d83704ae0e67a737a86",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P96_LineLimit/P96_LineLimit.swift",
+      "kind": "example",
+      "sha256": "32b1d25ea8f4dfe74dfbccc618f97eb390f940d37116b0887c376fe29fb31ae7",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 96,
+      "upstream_sha256": "04469af844f0856b4c97f7a25e0574f6f0af0829654adf3395ea860671632de2",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P97_MinimumScaleFactor/P97_MinimumScaleFactor.swift",
+      "kind": "example",
+      "sha256": "c277c81d2339b3ad8fde62fff6c8e83ccb2610f7ff2274182b1c1d7110dceb16",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 97,
+      "upstream_sha256": "6b772a515551e5e8896d49110d3c71c0ea25d3112684c23755abf746b7d03c80",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P98_TextCase/P98_TextCase.swift",
+      "kind": "example",
+      "sha256": "e5ca038d6456f5ae4b1c346f072be588f6889d8b69ec2070fd7eacbc584ab9cb",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 98,
+      "upstream_sha256": "c6753d97f0b301ea91b74c2496c8cff75521fac358535fc96a44e3cc9bd25bdd",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P99_DisableAutocorrection/P99_DisableAutocorrection.swift",
+      "kind": "example",
+      "sha256": "314b2249e32c6cf9c2de76b374000efcab27f2f22efba399639c72add1e38bd5",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 99,
+      "upstream_sha256": "648111a7ae6475250eb58bfc8a77199247a1c8bde0b80ece01502dcb0731998c",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    },
+    {
+      "dist_path": "Examples/P9_RightSheet/P9_RightSheet.swift",
+      "kind": "example",
+      "sha256": "efa81f769ae5a05145a2babe51ce515d260e30156323e366cc894a98a76b1160",
+      "license": "MIT",
+      "copyright": "Copyright (c) 2022 jasudev",
+      "upstream_id": 9,
+      "upstream_sha256": "11a535469d20356ba60ca42434fa90232a311099e9e22eccd5ea672ce9a723bb",
+      "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+    }
+  ]
+}

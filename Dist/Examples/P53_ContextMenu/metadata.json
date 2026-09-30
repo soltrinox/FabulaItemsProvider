@@ -1,0 +1,8 @@
+{
+  "id": 53,
+  "filename": "P53_ContextMenu.swift",
+  "disposition": "example",
+  "upstream_sha256": "449c3dab735f5d9455e22d1b09367224c38508227e2757c1a355b9840e94c12f",
+  "adapted_sha256": "ff30e0c64d762f87dc0e398d02ae12c7094b14d5ae824ef8d78ac20363ef7846",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

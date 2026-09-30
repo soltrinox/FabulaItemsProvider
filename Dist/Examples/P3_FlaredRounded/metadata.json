@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "filename": "P3_FlaredRounded.swift",
+  "disposition": "example",
+  "upstream_sha256": "5ab7298aeb26e3a947cdc74ffc9d83409bf32d13ae02da265d01bdbfe56f7c5f",
+  "adapted_sha256": "cc26de7435fbfc9ceeec08119192172c29852aa9907c43e1ed8765e0a1821991",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 31,
+  "filename": "P31_StaticText.swift",
+  "disposition": "example",
+  "upstream_sha256": "9b60bf39344072dce4705469ed1fbbe3c75ee2c32755ab4b7e027ca5e54ae6a5",
+  "adapted_sha256": "2e5873d64ca65f893db3b2ee7f2de20a939acb877296803bf588912358bdbf52",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

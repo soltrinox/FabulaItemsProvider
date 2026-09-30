@@ -1,0 +1,8 @@
+{
+  "id": 60,
+  "filename": "P60_Divider.swift",
+  "disposition": "example",
+  "upstream_sha256": "9aaec795ecc069f389c5850163497f329a1b3493aaecfa3071930590833b21d5",
+  "adapted_sha256": "4bab6c03055d664131dfb1473113d9021e03eb74f51fcf5f6f653d707cd7566f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

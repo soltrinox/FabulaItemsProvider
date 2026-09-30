@@ -1,0 +1,8 @@
+{
+  "id": 94,
+  "filename": "P94_LineSpacing.swift",
+  "disposition": "example",
+  "upstream_sha256": "03a6844f852b37501d38c735e09fb3ec1daa317ec6d5026171861c6a52a546b8",
+  "adapted_sha256": "cc445efb6b29e08d925300687f6c2e0b37da2546412955f16e83422391435b27",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

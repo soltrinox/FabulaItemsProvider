@@ -1,0 +1,8 @@
+{
+  "id": 198,
+  "filename": "P198_PolygonShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "7f0fb6a38c47b30db31be025337bc916a4408b42b89feeacfee4138f7a2e708d",
+  "adapted_sha256": "700ac7439f4a6633b72ddc706c72ea1f293e0fccda2d6b6c384f72bbfe7e3597",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 145,
+  "filename": "P145_RotationGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "f753929bbff691a5961f1804724548dcde8d47da137e8c1b0d844117c7e430e3",
+  "adapted_sha256": "251660b30e1609165067335dd87dc88059dfef2ed81b1d5ed3c0da9787f668f0",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

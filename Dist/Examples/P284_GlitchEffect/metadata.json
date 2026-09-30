@@ -1,0 +1,8 @@
+{
+  "id": 284,
+  "filename": "P284_GlitchEffect.swift",
+  "disposition": "example",
+  "upstream_sha256": "0efc200c39259d6f8c863e0bf050cdca45529227c54a575afcca9872a72795be",
+  "adapted_sha256": "77251ba0dfa2a0b9c57713a29d1f0e4f5dc483836ddd587b1e7f3d49f90d15c3",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

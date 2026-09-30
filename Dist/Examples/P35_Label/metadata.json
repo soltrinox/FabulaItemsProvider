@@ -1,0 +1,8 @@
+{
+  "id": 35,
+  "filename": "P35_Label.swift",
+  "disposition": "example",
+  "upstream_sha256": "3dcee04832ed30e37b44b9877e72a7207a1058c2e5f88be805b8673f05c19928",
+  "adapted_sha256": "4abb0cfe4731c587a516dc75d699bffdfdf531e08cd2c03fcbf3b9c51fc3644c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

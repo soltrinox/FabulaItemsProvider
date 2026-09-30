@@ -1,0 +1,8 @@
+{
+  "id": 85,
+  "filename": "P85_SymbolVariants.swift",
+  "disposition": "example",
+  "upstream_sha256": "0cbf31cb548c5f6fdb2fc1d45628fdf76935a2672025371ee2b0543aa70f9167",
+  "adapted_sha256": "4ad1f24c06599ed5ad8264fb92f64f6b69f5e8336bb624538fe00faa112fa3a5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

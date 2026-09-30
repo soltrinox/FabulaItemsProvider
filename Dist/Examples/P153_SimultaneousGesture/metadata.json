@@ -1,0 +1,8 @@
+{
+  "id": 153,
+  "filename": "P153_SimultaneousGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "68270156ef74afd8b897e4334a520b7644f3c4b3e9da9cbcc1b5fc3e64196c25",
+  "adapted_sha256": "ffab8ec13fb97f2147e6a28a3557c401cb67b13e8f1cbc09eacbc1d37a177135",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

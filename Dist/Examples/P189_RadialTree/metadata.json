@@ -1,0 +1,8 @@
+{
+  "id": 189,
+  "filename": "P189_RadialTree.swift",
+  "disposition": "example",
+  "upstream_sha256": "aa3e73aa99857c94960ecb720d9f1870ff2b9d94774aee8f5e1d5d98d2e3a074",
+  "adapted_sha256": "122ffcfdd48dd041eff66360020224a81151edf0de0f568df6c9dc19613e1752",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

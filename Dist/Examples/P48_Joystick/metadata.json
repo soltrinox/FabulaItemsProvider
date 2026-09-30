@@ -1,0 +1,8 @@
+{
+  "id": 48,
+  "filename": "P48_Joystick.swift",
+  "disposition": "example",
+  "upstream_sha256": "fa1a53431735028a411d1d57e1667f9bd289b0891aa151c3b72919cb18210e91",
+  "adapted_sha256": "e84e33dcbdd616c1496998e1c5e791bc5f20d5496ef1be88173bc51b78314f80",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

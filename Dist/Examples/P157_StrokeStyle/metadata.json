@@ -1,0 +1,8 @@
+{
+  "id": 157,
+  "filename": "P157_StrokeStyle.swift",
+  "disposition": "example",
+  "upstream_sha256": "a5fbb922a9e14f9ff994b1926a1ae7a7a680a6630a6cb63711a29f34c61a3349",
+  "adapted_sha256": "4b00ab0167f6257e6ded9d419692b05e777e7ea8ba5f604beb334c7d6a13737b",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

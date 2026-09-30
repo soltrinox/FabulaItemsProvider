@@ -1,0 +1,8 @@
+{
+  "id": 58,
+  "filename": "P58_Toggle.swift",
+  "disposition": "example",
+  "upstream_sha256": "78a5893bc7dd5a4a5b7480fd339f7746a2b6494a768dac9109921fc09bc2c734",
+  "adapted_sha256": "3ee769d6f7daac592897e4d1167af48873d0f4d264bbb6d032bcde28a09a34bb",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

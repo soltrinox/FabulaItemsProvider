@@ -1,0 +1,8 @@
+{
+  "id": 186,
+  "filename": "P186_RotateGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "8c4b77f687acd6283e2b189f2cac105841dd8baf54efc2b90e8de8680c1ce24c",
+  "adapted_sha256": "8940caee38b5f71ff1e6604545a025fd93656a88a69d09068e837cb960d9ed37",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

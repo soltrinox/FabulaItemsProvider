@@ -1,0 +1,8 @@
+{
+  "id": 162,
+  "filename": "P162_ScreenTransition.swift",
+  "disposition": "example",
+  "upstream_sha256": "40cf84a0235677d4c812737a8626fdd577d6ec2447180b8d7d72fa25bc0ade3f",
+  "adapted_sha256": "0e9834905a7683e1af3f3d95b3867b3db651c2a513923fc90cec18dd0fb7f960",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

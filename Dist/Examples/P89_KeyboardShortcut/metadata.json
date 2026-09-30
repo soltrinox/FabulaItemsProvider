@@ -1,0 +1,8 @@
+{
+  "id": 89,
+  "filename": "P89_KeyboardShortcut.swift",
+  "disposition": "example",
+  "upstream_sha256": "3c8a18b41fb4abeb462e160c6e2720bb27161b08bbbb809101884aed4e5738f9",
+  "adapted_sha256": "5ef22b7c114c0b4f599c74b1096c8e0bd50760686343d5b18915ae9f665df3cb",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 110,
+  "filename": "P110_ConfirmationDialog.swift",
+  "disposition": "component",
+  "upstream_sha256": "c0144a21f97f9b02f7e023ecd01e6b21500580063aca15b8962a208718c65024",
+  "adapted_sha256": "78cc1ea39c728b667c7c3e887e4a4b8e069b29ace2c7045f33df8f703b267223",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

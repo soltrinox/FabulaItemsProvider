@@ -1,0 +1,8 @@
+{
+  "id": 184,
+  "filename": "P184_ShapeIndicator.swift",
+  "disposition": "example",
+  "upstream_sha256": "a417dd9b5d7dde6ac4093a0f9a69e9cccc658fd2b5984b9b0a3cda7337385d0b",
+  "adapted_sha256": "d623f90103a1696b775488990c9d0986aca0179f20b373145c156bd933e426e6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

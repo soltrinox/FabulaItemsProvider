@@ -1,0 +1,8 @@
+{
+  "id": 99,
+  "filename": "P99_DisableAutocorrection.swift",
+  "disposition": "component",
+  "upstream_sha256": "648111a7ae6475250eb58bfc8a77199247a1c8bde0b80ece01502dcb0731998c",
+  "adapted_sha256": "314b2249e32c6cf9c2de76b374000efcab27f2f22efba399639c72add1e38bd5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 13,
+  "filename": "P13_SKscene.swift",
+  "disposition": "example",
+  "upstream_sha256": "3f99229d7c981cd162236400f5733bc30ee57a170613cba55103bdf9a7d4ba21",
+  "adapted_sha256": "7214c7606674adc5b6a82d3188dc1dacdc70f6809801681e436180d9b3326aaf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

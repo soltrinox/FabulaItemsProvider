@@ -1,0 +1,8 @@
+{
+  "id": 266,
+  "filename": "P266_ViscosityCanvas.swift",
+  "disposition": "example",
+  "upstream_sha256": "ee1f9da89ba9416c15219a6a48178d4656a97529b9885a4c907abbb639484480",
+  "adapted_sha256": "88d00ff8a6039e9022018d0ead4d3411320a04d6de0f6d68d7c86af2b3522a67",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

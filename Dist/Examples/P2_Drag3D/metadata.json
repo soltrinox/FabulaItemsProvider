@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "filename": "P2_Drag3D.swift",
+  "disposition": "example",
+  "upstream_sha256": "af62aae789864d4c7691a3962ea009a79e2b458c4e97df729e7c47fbe032e277",
+  "adapted_sha256": "f0ea8ffa7b2619bd51742305a71d8f8b21534134a7e9b56188d9051cee6bfe98",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 280,
+  "filename": "P280_SwitchComponent.swift",
+  "disposition": "component",
+  "upstream_sha256": "3c383217dfbaee92b342b18db9d150ee786264346df8c649c4bc20d93ff87209",
+  "adapted_sha256": "f305b66b95185339806d59eb4d75656d8c15571426630f2e1682b73519ce31cf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

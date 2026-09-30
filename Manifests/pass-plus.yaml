@@ -1,0 +1,41 @@
+name: pass-plus-fabula-vendor
+consumer: PASS PLUS
+include_examples: false
+foundation:
+  - FabulaFoundation
+theme:
+  - FabulaTheme
+components:
+  - FabulaFormSection
+  - FabulaPickerRow
+  - FabulaSecureEntryRow
+  - FabulaPrivateTextField
+  - FabulaRoundedTextFieldStyle
+  - FabulaDisclosureSection
+  - FabulaBoundedStepper
+  - FabulaSelectionGrid
+  - FabulaMinimalProgress
+  - FabulaConfirmationModifier
+  - FabulaCheckbox
+  - FabulaSwitch
+  - FabulaRadioGroup
+  - FabulaDebouncedText
+  - FabulaSubstringHighlighter
+  - FabulaShareLinkRow
+examples_debug_only:
+  - FabulaFormSection
+  - FabulaPickerRow
+  - FabulaSecureEntryRow
+  - FabulaPrivateTextField
+  - FabulaRoundedTextFieldStyle
+  - FabulaDisclosureSection
+  - FabulaBoundedStepper
+  - FabulaSelectionGrid
+  - FabulaMinimalProgress
+  - FabulaConfirmationModifier
+  - FabulaCheckbox
+  - FabulaSwitch
+  - FabulaRadioGroup
+  - FabulaDebouncedText
+  - FabulaSubstringHighlighter
+  - FabulaShareLinkRow

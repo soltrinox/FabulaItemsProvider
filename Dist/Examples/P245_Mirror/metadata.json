@@ -1,0 +1,8 @@
+{
+  "id": 245,
+  "filename": "P245_Mirror.swift",
+  "disposition": "example",
+  "upstream_sha256": "dc7f7d6a0937f0589c9b27f1d58cb6a3869597a87f5e743e11eb3d738ea9bd75",
+  "adapted_sha256": "2f2aa97e5207a1e286677e5b54fbba5230445b292a846236594e4169c5ebd51d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "filename": "P7_GuideLineModifier.swift",
+  "disposition": "example",
+  "upstream_sha256": "2aa72e3bf063462d5058d9b7d6f83f5add2dfa349a1c3c7a8d045f4ef8e5412b",
+  "adapted_sha256": "2f093c6a53b5e09d1ecdf5548603f97bd6c04366e6605c95cfc8e6089e400b6f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

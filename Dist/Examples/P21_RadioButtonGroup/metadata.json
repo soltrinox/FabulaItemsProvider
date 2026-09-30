@@ -1,0 +1,8 @@
+{
+  "id": 21,
+  "filename": "P21_FabulaRadioSectionGroup.swift",
+  "disposition": "example",
+  "upstream_sha256": "59e42b65129befd35b7d1558225c982ef75a939446782341eb6bb1f53ddaad13",
+  "adapted_sha256": "2b57009d2da28e99fe25c6f1e9bc292287801f9a6a44023e36dfb69306df1240",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

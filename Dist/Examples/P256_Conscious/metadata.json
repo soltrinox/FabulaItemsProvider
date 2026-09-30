@@ -1,0 +1,8 @@
+{
+  "id": 256,
+  "filename": "P256_Conscious.swift",
+  "disposition": "example",
+  "upstream_sha256": "2828fa3904f51ba066f18700e479d4c4c807b78fab9b213132d2e5c86c267ff0",
+  "adapted_sha256": "a02d86fcc5a873f842412dfb9f240fb6445a2eafec87955d94aea6adcd767430",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

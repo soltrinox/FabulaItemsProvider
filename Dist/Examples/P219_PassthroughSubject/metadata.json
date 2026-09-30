@@ -1,0 +1,8 @@
+{
+  "id": 219,
+  "filename": "P219_PassthroughSubject.swift",
+  "disposition": "example",
+  "upstream_sha256": "448a722e1942810d78abbb8ecfb8960d770e5205d3fb1052109697b3403e9db0",
+  "adapted_sha256": "728cf375bde028c2d51158ade5a91d20392b3040f97d3e86278c07bec9e6baa9",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

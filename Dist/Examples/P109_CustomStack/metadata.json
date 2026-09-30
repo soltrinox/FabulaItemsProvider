@@ -1,0 +1,8 @@
+{
+  "id": 109,
+  "filename": "P109_CustomStack.swift",
+  "disposition": "example",
+  "upstream_sha256": "5dbe00d7e87271cb21e233e702de1b23bfb74733d02a05d6bc4ddf5c160136d6",
+  "adapted_sha256": "b0b10962981fb04d0ff2b364d29f4e7987551e822e6d73407e0b3df6b542a057",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

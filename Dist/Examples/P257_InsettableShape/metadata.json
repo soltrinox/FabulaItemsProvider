@@ -1,0 +1,8 @@
+{
+  "id": 257,
+  "filename": "P257_InsettableShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "9e12294bdd02eb10efdbe59534d743f2537b70ad5c5537e9c45b8c070108ab19",
+  "adapted_sha256": "f6dc27938238578cd9e5402ebceda67858ea8b6924d85b95f4f6995bd91286a5",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

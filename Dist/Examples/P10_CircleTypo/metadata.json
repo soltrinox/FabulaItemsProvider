@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "filename": "P10_CircleTypography.swift",
+  "disposition": "example",
+  "upstream_sha256": "7117115bb908921a1796eb2d98deb8de5b69512a018a238cbe5965045623028b",
+  "adapted_sha256": "5afb7be72c31a2d7ba301ab7f1382b018aea7796f17e455a67bb93a4e80d220e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

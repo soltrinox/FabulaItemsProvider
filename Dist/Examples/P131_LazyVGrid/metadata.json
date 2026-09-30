@@ -1,0 +1,8 @@
+{
+  "id": 131,
+  "filename": "P131_LazyVGrid.swift",
+  "disposition": "component",
+  "upstream_sha256": "626cde1333113261489c98e33f486debadbbe9de4f49b939c2e5079fb11b1ce1",
+  "adapted_sha256": "90f24b03ae835df2895fc529a62f1fb2ab04751e0a8ecbc517337bf5fe570068",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

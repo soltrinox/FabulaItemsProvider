@@ -1,0 +1,8 @@
+{
+  "id": 119,
+  "filename": "P119_EquatableView.swift",
+  "disposition": "example",
+  "upstream_sha256": "a3aa29dc3edfe43bcf940af2933a00b3497f50b775fb7526dbc0b2f2842fc941",
+  "adapted_sha256": "75921533529dbb23797dbe0a9ec030c2e87fea9ee9dc4fdc4647169be97cd5b7",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

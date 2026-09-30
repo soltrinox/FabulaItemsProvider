@@ -1,0 +1,8 @@
+{
+  "id": 27,
+  "filename": "P27_Spring.swift",
+  "disposition": "example",
+  "upstream_sha256": "bba80f4bc06bdb66a4a6b59c04c157ef76f8a29a947a823132dd8c8d66c75bed",
+  "adapted_sha256": "b26bdb0aefbf347b8d3f8b5dd482747af3671815b1c2a5e9755cf7033c18817e",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

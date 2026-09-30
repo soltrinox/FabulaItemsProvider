@@ -1,0 +1,8 @@
+{
+  "id": 134,
+  "filename": "P134_List.swift",
+  "disposition": "example",
+  "upstream_sha256": "27d6c5230f049c8f3bc6dafd8d6480e22c0694509d2a2e562a5af5dcf90f4ae8",
+  "adapted_sha256": "1b32a343700155953e2c3098756b84ae7f3ae2c8688e1eb4afa9800550acb3c2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

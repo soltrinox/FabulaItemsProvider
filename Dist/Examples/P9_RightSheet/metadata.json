@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "filename": "P9_RightSheet.swift",
+  "disposition": "example",
+  "upstream_sha256": "11a535469d20356ba60ca42434fa90232a311099e9e22eccd5ea672ce9a723bb",
+  "adapted_sha256": "efa81f769ae5a05145a2babe51ce515d260e30156323e366cc894a98a76b1160",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 149,
+  "filename": "P149_ScrollViewReader.swift",
+  "disposition": "example",
+  "upstream_sha256": "714b8fe031b2d0b72fb8855670a712a0710613b9a0964c13df6e77322d932f37",
+  "adapted_sha256": "219b60834a7e966ee34a4fc3163d36463b7cf6485dbe6fc6a001de12e585f81c",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

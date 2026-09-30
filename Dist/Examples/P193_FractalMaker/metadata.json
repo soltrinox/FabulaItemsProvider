@@ -1,0 +1,8 @@
+{
+  "id": 193,
+  "filename": "P193_FractalMaker.swift",
+  "disposition": "example",
+  "upstream_sha256": "572dd252e86e331fbf83b9329713a7d46e3b812eca52634430f597387da74b41",
+  "adapted_sha256": "1cfaedca1e1b80e482b5f2d6815793af2d6df2ee774cb4a6827e0e5020b7f762",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

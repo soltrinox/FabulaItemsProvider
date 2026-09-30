@@ -1,0 +1,8 @@
+{
+  "id": 73,
+  "filename": "P73_DynamicTypeSize.swift",
+  "disposition": "example",
+  "upstream_sha256": "632138cda572dd67c471dbfdf4c27de19aa138838e3c25b70114c391336aa240",
+  "adapted_sha256": "ebf740fb2df1c4d23e9226b77de3bd44c675deb06974d92b362f770d713e98cf",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

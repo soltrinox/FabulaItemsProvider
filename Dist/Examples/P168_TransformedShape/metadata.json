@@ -1,0 +1,8 @@
+{
+  "id": 168,
+  "filename": "P168_TransformedShape.swift",
+  "disposition": "example",
+  "upstream_sha256": "2cecf39acfb3ec9182aac8e4340bff1e11d2e8de43f0c7df7803814a60c1d0d8",
+  "adapted_sha256": "cce68c5841b67661693cf746a20ad0c86d6101ce856c474f666897ed73f887c6",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

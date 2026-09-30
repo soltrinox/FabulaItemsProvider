@@ -1,0 +1,8 @@
+{
+  "id": 154,
+  "filename": "P154_Slider.swift",
+  "disposition": "example",
+  "upstream_sha256": "9974616cb91d7ec7b1e92a841449cacab122de818f9248c7eb1d213c376ea5ff",
+  "adapted_sha256": "ba00d4d1f8ae716f9e4ce8e9838640858ff818637b871342917c1c64c49538b2",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

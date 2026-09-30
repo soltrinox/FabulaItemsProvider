@@ -1,0 +1,8 @@
+{
+  "id": 138,
+  "filename": "P138_NavigationLink.swift",
+  "disposition": "example",
+  "upstream_sha256": "3958309f0454823d680f643d3a20ed3cf3237cb35dd83d913f6dc65c53e3b3e2",
+  "adapted_sha256": "e593ee8e17aa123378884a6bb61c6ec9a6ae931477c9cfede7486ba2a3450745",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

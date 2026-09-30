@@ -1,0 +1,8 @@
+{
+  "id": 152,
+  "filename": "P152_SequenceGesture.swift",
+  "disposition": "example",
+  "upstream_sha256": "70068128a6305d47c4f714a161295c969e534300b8b7c8773babd98f2eb1735c",
+  "adapted_sha256": "a9817b73b36e73ccf11f759a2cdb08856fa07d9fc570964ea120dd897435df4d",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}

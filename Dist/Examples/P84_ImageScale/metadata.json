@@ -1,0 +1,8 @@
+{
+  "id": 84,
+  "filename": "P84_ImageScale.swift",
+  "disposition": "example",
+  "upstream_sha256": "ae25f3d58e771741822c27b3b607416d1f46aa55a8552236d6b5168232de47a2",
+  "adapted_sha256": "a64f49c2112bc308d5b64dca653b01a54c886cb93f6172d42bece2ed7342ad1f",
+  "adaptation": "theme_local_tokens;print_removed;renamed_FabulaExample;no_third_party"
+}
